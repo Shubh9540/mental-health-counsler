@@ -1,0 +1,3889 @@
+{
+  "common": {
+    "Footer": {
+      "logoAlt": "HealthCounselor Logo",
+      "brandTitle": "HealthCounselor",
+      "copyrightText": "Copyright © 2026 HealthCounselor. All rights reserved. Powered By Lestow",
+      "description": "Turning your special moments into unforgettable celebrations with creativity, care and perfection.",
+      "hoursTitle": "Working Hours",
+      "hoursDays": "Mon - Sat:",
+      "hours": "9:00 AM - 7:00 PM\nSunday: Closed",
+      "socialLinks": [
+        {
+          "id": "fs1",
+          "icon": "FaFacebookF",
+          "url": "https://www.facebook.com"
+        },
+        {
+          "id": "fs2",
+          "icon": "FaInstagram",
+          "url": "https://www.instagram.com"
+        },
+        {
+          "id": "fs3",
+          "icon": "FaLinkedinIn",
+          "url": "https://www.linkedin.com"
+        },
+        {
+          "id": "fs4",
+          "icon": "FaYoutube",
+          "url": "https://www.youtube.com"
+        }
+      ],
+      "quickLinks": [
+        {
+          "id": "ql1",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "ql2",
+          "label": "About Us",
+          "url": "/about"
+        },
+        {
+          "id": "ql3",
+          "label": "Our Services",
+          "url": "/services"
+        },
+        {
+          "id": "ql4",
+          "label": "Gallery",
+          "url": "/gallery"
+        },
+        {
+          "id": "ql5",
+          "label": "FAQ",
+          "url": "/faq"
+        },
+        {
+          "id": "ql6",
+          "label": "Contact Us",
+          "url": "/contact"
+        }
+      ],
+      "servicesLinks": [
+        {
+          "id": "s1",
+          "label": "Individual Counseling",
+          "url": "/services/individual"
+        },
+        {
+          "id": "s2",
+          "label": "Couples Counseling",
+          "url": "/services/couples"
+        },
+        {
+          "id": "s3",
+          "label": "Child & Adolescent Counseling",
+          "url": "/services/child"
+        },
+        {
+          "id": "s4",
+          "label": "Group Therapy",
+          "url": "/services/group"
+        },
+        {
+          "id": "s5",
+          "label": "Stress & Anxiety Management",
+          "url": "/services/stress"
+        },
+        {
+          "id": "s6",
+          "label": "Life & Career Guidance",
+          "url": "/services/career"
+        }
+      ],
+      "contactInfo": {
+        "address": "123 Main St, New York, NY, USA",
+        "phone": "+1 000000000",
+        "email": "info@xyz.com"
+      },
+      "instagram": [
+        "/service/1.jpg",
+        "/service/2.jpg",
+        "/service/3.jpg",
+        "/service/4.jpg",
+        "/service/5.jpg",
+        "/service/6.jpg"
+      ],
+      "faqLinks": [
+        {
+          "id": "fq1",
+          "label": "How Can I Set An Event?",
+          "url": "/faq"
+        },
+        {
+          "id": "fq2",
+          "label": "What Venues Do You Use?",
+          "url": "/faq"
+        },
+        {
+          "id": "fq3",
+          "label": "Event Catalogue",
+          "url": "/faq"
+        },
+        {
+          "id": "fq4",
+          "label": "Shipping & Delivery",
+          "url": "/faq"
+        },
+        {
+          "id": "fq5",
+          "label": "What's your dream job?",
+          "url": "/faq"
+        }
+      ],
+      "logo": "/main logo/logo1.webp",
+      "col2Title": "Our Services",
+      "col3Title": "Useful Links",
+      "col4Title": "Frequent Questions",
+      "supportText": "Support: "
+    },
+    "aboutBreadcrumb": {
+      "title": "ABOUT US",
+      "subtitle": "I Do What I Love",
+      "bgImage": "/main logo/breadcrumb.webp",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "About Us"
+        }
+      ]
+    },
+    "servicesBreadcrumb": {
+      "title": "Our Services",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Services"
+        }
+      ]
+    },
+    "contactBreadcrumb": {
+      "title": "Contact Us",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Contact Us"
+        }
+      ]
+    },
+    "enquiryBreadcrumb": {
+      "title": "Enquiry Now",
+      "paths": [
+        {
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "label": "Enquiry Now"
+        }
+      ]
+    }
+  },
+  "categories": {
+    "HealthCounselor": {
+      "sections": {
+        "TopBar": {
+          "variants": {
+            "HealthCounselorTopBar1": {
+              "phoneLabel": "Call Us :",
+              "phoneValue": "+1 000000000",
+              "emailValue": "info@xyz.com",
+              "followLabel": "Follow Us On :",
+              "socialLinks": [
+                {
+                  "id": "tb-fb",
+                  "icon": "FaFacebookF",
+                  "url": "https://www.facebook.com"
+                },
+                {
+                  "id": "tb-ig",
+                  "icon": "FaXTwitter",
+                  "url": "https://x.com"
+                },
+                {
+                  "id": "tb-in",
+                  "icon": "FaInstagram",
+                  "url": "https://www.instagram.com"
+                },
+                {
+                  "id": "tb-yt",
+                  "icon": "FaLinkedinIn",
+                  "url": "https://www.linkedin.com"
+                }
+              ]
+            }
+          }
+        },
+        "Header": {
+          "variants": {
+            "HealthCounselorHeader1": {
+              "logo": "/main logo/logo1.webp",
+              "logoAlt": "HealthCounselor Logo",
+              "navLinks": [
+                {
+                  "id": "nl-home",
+                  "label": "Home",
+                  "url": "/"
+                },
+                {
+                  "id": "nl-about",
+                  "label": "About Us",
+                  "url": "/about"
+                },
+                {
+                  "id": "nl-services",
+                  "label": "Our Services",
+                  "url": "/services"
+                },
+                {
+                  "id": "nl-gallery",
+                  "label": "Gallery",
+                  "url": "/gallery"
+                },
+                {
+                  "id": "nl-faq",
+                  "label": "Blog",
+                  "url": "/blog"
+                },
+                {
+                  "id": "nl-contact",
+                  "label": "Contact Us",
+                  "url": "/contact"
+                }
+              ],
+              "contactButton": {
+                "text": "Get a Quote ->",
+                "url": "/quote"
+              }
+            }
+          }
+        },
+        "Hero": {
+          "variants": {
+            "HealthCounselorHero1": {
+              "subtitle": "YOUR MIND MATTERS",
+              "title1": "A Healthier Mind",
+              "title2": "for a Brighter You",
+              "description": "Compassionate counseling to help you manage stress, overcome challenges and live a more balanced, happier life.",
+              "image1": "/banner/banner.webp",
+              "button1": {
+                "text": "Get a Quote >",
+                "url": "/quote"
+              },
+              "button2": {
+                "text": "More Gallery >",
+                "url": "/gallery"
+              }
+            }
+          }
+        },
+        "AboutUs": {
+          "variants": {
+            "HealthCounselorAboutUs1": {
+              "subtitle": "ABOUT US",
+              "title1": "Modern Caring Mental Health & Behavioral Support To",
+              "title2": "Brighter Lives.",
+              "description1": "At CalmPath, we believe that mental well-being is the foundation of a healthier, happier and more fulfilling life. Our compassionate counselors are here to listen, understand and guide you through life's challenges with care and evidence-based approaches.",
+              "description2": "",
+              "imageMain": "/about/about.webp",
+              "yearsOfExperience": "12+",
+              "features": [
+                {
+                  "id": "f1",
+                  "title": "Individual Counseling",
+                  "description": "Personalized support to help you manage stress, anxiety and life transitions.",
+                  "icon": "FaUserAlt"
+                },
+                {
+                  "id": "f2",
+                  "title": "Group Therapy",
+                  "description": "A safe and supportive space to share, heal and grow together.",
+                  "icon": "FaUsers"
+                }
+              ],
+              "button": {
+                "text": "Discover More ->",
+                "url": "/about"
+              }
+            }
+          }
+        },
+        "Services": {
+          "variants": {
+            "HealthCounselorServices1": {
+              "subtitle": "OUR SERVICES",
+              "title1": "Support for a",
+              "title2": "Healthier, Happier Life",
+              "description": "We offer personalized therapy and counseling services to help you navigate challenges, build resilience, and achieve emotional well-being.",
+              "services": [
+                {
+                  "id": "s1",
+                  "title": "Individual Counseling",
+                  "description": "One-on-one support to help you manage stress, anxiety, and life challenges effectively.",
+                  "image": "/service/1.webp",
+                  "icon": "FaUserAlt",
+                  "url": "/services/individual"
+                },
+                {
+                  "id": "s2",
+                  "title": "Couples Counseling",
+                  "description": "Strengthen your relationship, improve communication, and build a healthier future together.",
+                  "image": "/service/2.webp",
+                  "icon": "FaUserFriends",
+                  "url": "/services/couples"
+                },
+                {
+                  "id": "s3",
+                  "title": "Child & Adolescent Counseling",
+                  "description": "Support for emotional, behavioral, and developmental challenges in children and teens.",
+                  "image": "/service/3.webp",
+                  "icon": "FaChild",
+                  "url": "/services/child"
+                },
+                {
+                  "id": "s4",
+                  "title": "Group Therapy",
+                  "description": "Connect, share, and grow in a supportive and understanding environment.",
+                  "image": "/service/4.webp",
+                  "icon": "FaUsers",
+                  "url": "/services/group"
+                },
+                {
+                  "id": "s5",
+                  "title": "Stress & Anxiety Management",
+                  "description": "Practical strategies to manage stress, reduce anxiety, and regain balance in your life.",
+                  "image": "/service/5.webp",
+                  "icon": "FaSpa",
+                  "url": "/services/stress"
+                },
+                {
+                  "id": "s6",
+                  "title": "Life & Career Guidance",
+                  "description": "Gain clarity, set meaningful goals, and make confident decisions for a brighter future.",
+                  "image": "/service/6.webp",
+                  "icon": "FaChartBar",
+                  "url": "/services/career"
+                }
+              ]
+            }
+          }
+        },
+        "WhatWeDo": {
+          "variants": {
+            "HealthCounselorWhatWeDo1": {
+              "subtitle": "WHY CHOOSE US",
+              "title1": "The leading mental health consultation center",
+              "title2": "for you.",
+              "title3": "",
+              "subheading": "Therapy With Dr. Jans Smith",
+              "description": "We are dedicated to providing compassionate, professional and personalized mental health care to help you overcome challenges and live a healthier, happier life.",
+              "image": "/choose/choose.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaLaptopMedical",
+                  "title": "Online Counseling",
+                  "description": "Get expert guidance from anywhere.",
+                  "url": "#"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaBrain",
+                  "title": "Brain Checkup",
+                  "description": "Professional assessments for better mental wellness.",
+                  "url": "#"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaUserMd",
+                  "title": "Experts Doctors",
+                  "description": "Certified and experienced mental health professionals.",
+                  "url": "#"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FaFileMedical",
+                  "title": "Medico Reports",
+                  "description": "Accurate reports and personalized care plans.",
+                  "url": "#"
+                }
+              ]
+            }
+          }
+        },
+        "ServiceDetail": {
+          "variants": {
+            "wedding": {
+              "id": "wedding",
+              "title1": "Wedding",
+              "title2": "Planning",
+              "description": "Your wedding is more than just an event — it's a beautiful journey of love, togetherness, and new beginnings. We create magical wedding experiences with flawless planning, creative themes, and personalized details that reflect your unique story.",
+              "imageMain": "/service/weeding.webp",
+              "imageSmall1": "/service/private party.webp",
+              "imageSmall2": "/service/corporate party.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiHeart",
+                  "title": "Personalized Theme Planning"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiMapPin",
+                  "title": "Venue Selection & Management"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiStar",
+                  "title": "Decoration & Floral Arrangements"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiCamera",
+                  "title": "Photography & Videography"
+                },
+                {
+                  "id": "f5",
+                  "icon": "FiCoffee",
+                  "title": "Catering & Menu Planning"
+                },
+                {
+                  "id": "f6",
+                  "icon": "FiMusic",
+                  "title": "Entertainment & Artist Management"
+                },
+                {
+                  "id": "f7",
+                  "icon": "FiGift",
+                  "title": "Guest Hospitality"
+                },
+                {
+                  "id": "f8",
+                  "icon": "FiClipboard",
+                  "title": "On-site Coordination"
+                }
+              ],
+              "processTitle": "Our",
+              "processDescription": "We follow a client-centric approach to ensure every detail is thoughtfully planned and beautifully executed. From initial consultation to the final send-off, our team works closely with you to bring your dream wedding to life.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Initial Consultation & Planning",
+                  "description": "We start with a comprehensive consultation to understand your vision, preferences, and budget. Our team then creates a detailed plan to ensure every aspect of your wedding is perfectly organized."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design & Concept Development",
+                  "description": "Our creative team works on the theme, decor, and overall concept. We present you with mood boards and design layouts to visualize your special day before it happens."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Execution & On-Site Management",
+                  "description": "On the big day, our expert coordinators manage everything behind the scenes. From vendor coordination to timeline management, we ensure your event runs smoothly so you can enjoy every moment."
+                }
+              ],
+              "sidebar": {
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "wedding",
+                      "label": "Wedding Planning",
+                      "url": "/services/wedding"
+                    },
+                    {
+                      "id": "corporate",
+                      "label": "Corporate Events",
+                      "url": "/services/corporate"
+                    },
+                    {
+                      "id": "parties",
+                      "label": "Parties & Celebrations",
+                      "url": "/services/parties"
+                    },
+                    {
+                      "id": "kids",
+                      "label": "Events for Kids",
+                      "url": "/services/kids"
+                    },
+                    {
+                      "id": "decor",
+                      "label": "Lighting & Decor",
+                      "url": "/services/decor"
+                    },
+                    {
+                      "id": "public",
+                      "label": "Public Events",
+                      "url": "/services/public"
+                    }
+                  ]
+                },
+                "contactCard": {
+                  "title": "Plan Your Special Event",
+                  "description": "Get in touch with our team to discuss your event requirements.",
+                  "phone": "+1 00000 00000",
+                  "email": "info@xyz.com",
+                  "address": "123 Main St, New York, NY, USA",
+                  "buttonText": "Contact Us ->",
+                  "bgImage": "/banner/banner.webp"
+                },
+                "whyChooseUsCard": {
+                  "title": "Why Choose Us?",
+                  "description": "We are committed to turning your vision into unforgettable celebrations with creativity, passion, and attention to detail.",
+                  "buttonText": "Know More ->",
+                  "bgImage": "/service/weeding.webp"
+                }
+              }
+            },
+            "water-heater": {
+              "id": "water-heater",
+              "subtitle": "Our Service",
+              "title1": "Water",
+              "title2": "Heater Services",
+              "description": "Installation, repair and maintenance of all types of water heaters to ensure a continuous supply of hot water.",
+              "imageMain": "/service/5.jpg",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiShield",
+                  "title": "Durable Installation"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiSettings",
+                  "title": "Quality Materials"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiClock",
+                  "title": "On-Time Completion"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiUsers",
+                  "title": "Experienced Technicians"
+                }
+              ],
+              "overviewTitle": "Service Overview",
+              "overviewText": [
+                "Installation, repair and maintenance of all types of water heaters to ensure a continuous supply of hot water.",
+                "From water supply lines to drainage pipes, we handle every aspect with precision and care. Our focus is on delivering reliable solutions that prevent future issues and keep your HealthCounselor system running smoothly for years to come."
+              ],
+              "overviewImage": "/service/5.jpg",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Site Inspection",
+                  "description": "We assess your HealthCounselor requirements and recommend the best solution."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Planning & Design",
+                  "description": "Detailed planning to ensure a safe and efficient installation process."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Installation",
+                  "description": "Our experts install pipes using quality materials and proven techniques."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Support",
+                  "description": "We test the system for leaks and performance, and provide ongoing support."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What types of pipes do you install?",
+                  "answer": "We install a variety of pipes including PVC, copper, PEX, and galvanized steel depending on your specific requirements and local HealthCounselor codes."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the installation process take?",
+                  "answer": "The duration depends on the scope of the project. A single fixture pipe installation might take a few hours, while whole-house repiping could take several days."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you provide a warranty on installation?",
+                  "answer": "Yes, we provide a comprehensive warranty on both our workmanship and the materials we supply."
+                },
+                {
+                  "id": "q4",
+                  "question": "Can you handle both residential and commercial projects?",
+                  "answer": "Absolutely! Our team is experienced in handling small residential pipe repairs as well as large-scale commercial pipe installations."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Get a Free Quote",
+                  "description": "Fill out the form and our team will get back to you with the best solution for your needs.",
+                  "buttonText": "Enquire Now ->",
+                  "servicesList": [
+                    "Pipe Installation",
+                    "Leak Repairs",
+                    "Drain Cleaning",
+                    "Water Heaters",
+                    "Bathroom HealthCounselor",
+                    "Emergency HealthCounselor"
+                  ]
+                },
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "s1",
+                      "label": "HealthCounselor Installation",
+                      "url": "/services/HealthCounselor-installation"
+                    },
+                    {
+                      "id": "s2",
+                      "label": "Leak Detection Services",
+                      "url": "/services/leak-detection"
+                    },
+                    {
+                      "id": "s3",
+                      "label": "Pipe & Drain Cleaning",
+                      "url": "/services/pipe-drain-cleaning"
+                    },
+                    {
+                      "id": "s4",
+                      "label": "General HealthCounselor Repair",
+                      "url": "/services/general-repair"
+                    },
+                    {
+                      "id": "s5",
+                      "label": "Water Heater Services",
+                      "url": "/services/water-heater"
+                    },
+                    {
+                      "id": "s6",
+                      "label": "Bathroom Fixture Installation",
+                      "url": "/services/bathroom-fixture"
+                    }
+                  ]
+                }
+              }
+            },
+            "bathroom-fixture": {
+              "id": "bathroom-fixture",
+              "subtitle": "Our Service",
+              "title1": "Bathroom",
+              "title2": "Fixture Installation",
+              "description": "We install and repair sinks, faucets, toilets, showers and other bathroom fixtures with expertise and care.",
+              "imageMain": "/service/6.jpg",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiShield",
+                  "title": "Durable Installation"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiSettings",
+                  "title": "Quality Materials"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiClock",
+                  "title": "On-Time Completion"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiUsers",
+                  "title": "Experienced Technicians"
+                }
+              ],
+              "overviewTitle": "Service Overview",
+              "overviewText": [
+                "We install and repair sinks, faucets, toilets, showers and other bathroom fixtures with expertise and care.",
+                "From water supply lines to drainage pipes, we handle every aspect with precision and care. Our focus is on delivering reliable solutions that prevent future issues and keep your HealthCounselor system running smoothly for years to come."
+              ],
+              "overviewImage": "/service/6.jpg",
+              "processTitle": "Our Process",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Site Inspection",
+                  "description": "We assess your HealthCounselor requirements and recommend the best solution."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Planning & Design",
+                  "description": "Detailed planning to ensure a safe and efficient installation process."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Installation",
+                  "description": "Our experts install pipes using quality materials and proven techniques."
+                },
+                {
+                  "id": "p4",
+                  "number": "04",
+                  "title": "Testing & Support",
+                  "description": "We test the system for leaks and performance, and provide ongoing support."
+                }
+              ],
+              "faqTitle": "Frequently Asked Questions",
+              "faqs": [
+                {
+                  "id": "q1",
+                  "question": "What types of pipes do you install?",
+                  "answer": "We install a variety of pipes including PVC, copper, PEX, and galvanized steel depending on your specific requirements and local HealthCounselor codes."
+                },
+                {
+                  "id": "q2",
+                  "question": "How long does the installation process take?",
+                  "answer": "The duration depends on the scope of the project. A single fixture pipe installation might take a few hours, while whole-house repiping could take several days."
+                },
+                {
+                  "id": "q3",
+                  "question": "Do you provide a warranty on installation?",
+                  "answer": "Yes, we provide a comprehensive warranty on both our workmanship and the materials we supply."
+                },
+                {
+                  "id": "q4",
+                  "question": "Can you handle both residential and commercial projects?",
+                  "answer": "Absolutely! Our team is experienced in handling small residential pipe repairs as well as large-scale commercial pipe installations."
+                }
+              ],
+              "sidebar": {
+                "quoteForm": {
+                  "title": "Get a Free Quote",
+                  "description": "Fill out the form and our team will get back to you with the best solution for your needs.",
+                  "buttonText": "Enquire Now ->",
+                  "servicesList": [
+                    "Pipe Installation",
+                    "Leak Repairs",
+                    "Drain Cleaning",
+                    "Water Heaters",
+                    "Bathroom HealthCounselor",
+                    "Emergency HealthCounselor"
+                  ]
+                },
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "s1",
+                      "label": "HealthCounselor Installation",
+                      "url": "/services/HealthCounselor-installation"
+                    },
+                    {
+                      "id": "s2",
+                      "label": "Leak Detection Services",
+                      "url": "/services/leak-detection"
+                    },
+                    {
+                      "id": "s3",
+                      "label": "Pipe & Drain Cleaning",
+                      "url": "/services/pipe-drain-cleaning"
+                    },
+                    {
+                      "id": "s4",
+                      "label": "General HealthCounselor Repair",
+                      "url": "/services/general-repair"
+                    },
+                    {
+                      "id": "s5",
+                      "label": "Water Heater Services",
+                      "url": "/services/water-heater"
+                    },
+                    {
+                      "id": "s6",
+                      "label": "Bathroom Fixture Installation",
+                      "url": "/services/bathroom-fixture"
+                    }
+                  ]
+                }
+              }
+            },
+            "birthday": {
+              "id": "birthday",
+              "title1": "Birthday",
+              "title2": "Party",
+              "description": "Your birthday party is more than just an event — it's a beautiful journey. We create magical experiences with flawless planning, creative themes, and personalized details that reflect your unique story.",
+              "imageMain": "/service/weeding.webp",
+              "imageSmall1": "/service/private party.webp",
+              "imageSmall2": "/service/corporate party.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiHeart",
+                  "title": "Personalized Theme Planning"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiMapPin",
+                  "title": "Venue Selection & Management"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiStar",
+                  "title": "Decoration & Floral Arrangements"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiCamera",
+                  "title": "Photography & Videography"
+                },
+                {
+                  "id": "f5",
+                  "icon": "FiCoffee",
+                  "title": "Catering & Menu Planning"
+                },
+                {
+                  "id": "f6",
+                  "icon": "FiMusic",
+                  "title": "Entertainment & Artist Management"
+                },
+                {
+                  "id": "f7",
+                  "icon": "FiGift",
+                  "title": "Guest Hospitality"
+                },
+                {
+                  "id": "f8",
+                  "icon": "FiClipboard",
+                  "title": "On-site Coordination"
+                }
+              ],
+              "processTitle": "Our",
+              "processDescription": "We follow a client-centric approach to ensure every detail is thoughtfully planned and beautifully executed. From initial consultation to the final send-off, our team works closely with you to bring your dream wedding to life.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Initial Consultation & Planning",
+                  "description": "We start with a comprehensive consultation to understand your vision, preferences, and budget. Our team then creates a detailed plan to ensure every aspect of your wedding is perfectly organized."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design & Concept Development",
+                  "description": "Our creative team works on the theme, decor, and overall concept. We present you with mood boards and design layouts to visualize your special day before it happens."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Execution & On-Site Management",
+                  "description": "On the big day, our expert coordinators manage everything behind the scenes. From vendor coordination to timeline management, we ensure your event runs smoothly so you can enjoy every moment."
+                }
+              ],
+              "sidebar": {
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "wedding",
+                      "label": "Wedding Planning",
+                      "url": "/services/wedding"
+                    },
+                    {
+                      "id": "corporate",
+                      "label": "Corporate Events",
+                      "url": "/services/corporate"
+                    },
+                    {
+                      "id": "parties",
+                      "label": "Parties & Celebrations",
+                      "url": "/services/parties"
+                    },
+                    {
+                      "id": "kids",
+                      "label": "Events for Kids",
+                      "url": "/services/kids"
+                    },
+                    {
+                      "id": "decor",
+                      "label": "Lighting & Decor",
+                      "url": "/services/decor"
+                    },
+                    {
+                      "id": "public",
+                      "label": "Public Events",
+                      "url": "/services/public"
+                    }
+                  ]
+                },
+                "contactCard": {
+                  "title": "Plan Your Special Event",
+                  "description": "Get in touch with our team to discuss your event requirements.",
+                  "phone": "+1 00000 00000",
+                  "email": "info@xyz.com",
+                  "address": "123 Main St, New York, NY, USA",
+                  "buttonText": "Contact Us ->",
+                  "bgImage": "/banner/banner.webp"
+                },
+                "whyChooseUsCard": {
+                  "title": "Why Choose Us?",
+                  "description": "We are committed to turning your vision into unforgettable celebrations with creativity, passion, and attention to detail.",
+                  "buttonText": "Know More ->",
+                  "bgImage": "/service/weeding.webp"
+                }
+              }
+            },
+            "corporate": {
+              "id": "corporate",
+              "title1": "Corporate",
+              "title2": "Event",
+              "description": "Your corporate event is more than just an event — it's a beautiful journey. We create magical experiences with flawless planning, creative themes, and personalized details that reflect your unique story.",
+              "imageMain": "/service/corporate party.webp",
+              "imageSmall1": "/service/private party.webp",
+              "imageSmall2": "/service/corporate party.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiHeart",
+                  "title": "Personalized Theme Planning"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiMapPin",
+                  "title": "Venue Selection & Management"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiStar",
+                  "title": "Decoration & Floral Arrangements"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiCamera",
+                  "title": "Photography & Videography"
+                },
+                {
+                  "id": "f5",
+                  "icon": "FiCoffee",
+                  "title": "Catering & Menu Planning"
+                },
+                {
+                  "id": "f6",
+                  "icon": "FiMusic",
+                  "title": "Entertainment & Artist Management"
+                },
+                {
+                  "id": "f7",
+                  "icon": "FiGift",
+                  "title": "Guest Hospitality"
+                },
+                {
+                  "id": "f8",
+                  "icon": "FiClipboard",
+                  "title": "On-site Coordination"
+                }
+              ],
+              "processTitle": "Our",
+              "processDescription": "We follow a client-centric approach to ensure every detail is thoughtfully planned and beautifully executed. From initial consultation to the final send-off, our team works closely with you to bring your dream wedding to life.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Initial Consultation & Planning",
+                  "description": "We start with a comprehensive consultation to understand your vision, preferences, and budget. Our team then creates a detailed plan to ensure every aspect of your wedding is perfectly organized."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design & Concept Development",
+                  "description": "Our creative team works on the theme, decor, and overall concept. We present you with mood boards and design layouts to visualize your special day before it happens."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Execution & On-Site Management",
+                  "description": "On the big day, our expert coordinators manage everything behind the scenes. From vendor coordination to timeline management, we ensure your event runs smoothly so you can enjoy every moment."
+                }
+              ],
+              "sidebar": {
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "wedding",
+                      "label": "Wedding Planning",
+                      "url": "/services/wedding"
+                    },
+                    {
+                      "id": "corporate",
+                      "label": "Corporate Events",
+                      "url": "/services/corporate"
+                    },
+                    {
+                      "id": "parties",
+                      "label": "Parties & Celebrations",
+                      "url": "/services/parties"
+                    },
+                    {
+                      "id": "kids",
+                      "label": "Events for Kids",
+                      "url": "/services/kids"
+                    },
+                    {
+                      "id": "decor",
+                      "label": "Lighting & Decor",
+                      "url": "/services/decor"
+                    },
+                    {
+                      "id": "public",
+                      "label": "Public Events",
+                      "url": "/services/public"
+                    }
+                  ]
+                },
+                "contactCard": {
+                  "title": "Plan Your Special Event",
+                  "description": "Get in touch with our team to discuss your event requirements.",
+                  "phone": "+1 00000 00000",
+                  "email": "info@xyz.com",
+                  "address": "123 Main St, New York, NY, USA",
+                  "buttonText": "Contact Us ->",
+                  "bgImage": "/banner/banner.webp"
+                },
+                "whyChooseUsCard": {
+                  "title": "Why Choose Us?",
+                  "description": "We are committed to turning your vision into unforgettable celebrations with creativity, passion, and attention to detail.",
+                  "buttonText": "Know More ->",
+                  "bgImage": "/service/weeding.webp"
+                }
+              }
+            },
+            "private-party": {
+              "id": "private-party",
+              "title1": "Private",
+              "title2": "Party",
+              "description": "Your private party is more than just an event — it's a beautiful journey. We create magical experiences with flawless planning, creative themes, and personalized details that reflect your unique story.",
+              "imageMain": "/service/private party.webp",
+              "imageSmall1": "/service/private party.webp",
+              "imageSmall2": "/service/corporate party.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiHeart",
+                  "title": "Personalized Theme Planning"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiMapPin",
+                  "title": "Venue Selection & Management"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiStar",
+                  "title": "Decoration & Floral Arrangements"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiCamera",
+                  "title": "Photography & Videography"
+                },
+                {
+                  "id": "f5",
+                  "icon": "FiCoffee",
+                  "title": "Catering & Menu Planning"
+                },
+                {
+                  "id": "f6",
+                  "icon": "FiMusic",
+                  "title": "Entertainment & Artist Management"
+                },
+                {
+                  "id": "f7",
+                  "icon": "FiGift",
+                  "title": "Guest Hospitality"
+                },
+                {
+                  "id": "f8",
+                  "icon": "FiClipboard",
+                  "title": "On-site Coordination"
+                }
+              ],
+              "processTitle": "Our",
+              "processDescription": "We follow a client-centric approach to ensure every detail is thoughtfully planned and beautifully executed. From initial consultation to the final send-off, our team works closely with you to bring your dream wedding to life.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Initial Consultation & Planning",
+                  "description": "We start with a comprehensive consultation to understand your vision, preferences, and budget. Our team then creates a detailed plan to ensure every aspect of your wedding is perfectly organized."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design & Concept Development",
+                  "description": "Our creative team works on the theme, decor, and overall concept. We present you with mood boards and design layouts to visualize your special day before it happens."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Execution & On-Site Management",
+                  "description": "On the big day, our expert coordinators manage everything behind the scenes. From vendor coordination to timeline management, we ensure your event runs smoothly so you can enjoy every moment."
+                }
+              ],
+              "sidebar": {
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "wedding",
+                      "label": "Wedding Planning",
+                      "url": "/services/wedding"
+                    },
+                    {
+                      "id": "corporate",
+                      "label": "Corporate Events",
+                      "url": "/services/corporate"
+                    },
+                    {
+                      "id": "parties",
+                      "label": "Parties & Celebrations",
+                      "url": "/services/parties"
+                    },
+                    {
+                      "id": "kids",
+                      "label": "Events for Kids",
+                      "url": "/services/kids"
+                    },
+                    {
+                      "id": "decor",
+                      "label": "Lighting & Decor",
+                      "url": "/services/decor"
+                    },
+                    {
+                      "id": "public",
+                      "label": "Public Events",
+                      "url": "/services/public"
+                    }
+                  ]
+                },
+                "contactCard": {
+                  "title": "Plan Your Special Event",
+                  "description": "Get in touch with our team to discuss your event requirements.",
+                  "phone": "+1 00000 00000",
+                  "email": "info@xyz.com",
+                  "address": "123 Main St, New York, NY, USA",
+                  "buttonText": "Contact Us ->",
+                  "bgImage": "/banner/banner.webp"
+                },
+                "whyChooseUsCard": {
+                  "title": "Why Choose Us?",
+                  "description": "We are committed to turning your vision into unforgettable celebrations with creativity, passion, and attention to detail.",
+                  "buttonText": "Know More ->",
+                  "bgImage": "/service/weeding.webp"
+                }
+              }
+            },
+            "engagement": {
+              "id": "engagement",
+              "title1": "Engagement",
+              "title2": "Ceremony",
+              "description": "Your engagement ceremony is more than just an event — it's a beautiful journey. We create magical experiences with flawless planning, creative themes, and personalized details that reflect your unique story.",
+              "imageMain": "/service/weeding.webp",
+              "imageSmall1": "/service/private party.webp",
+              "imageSmall2": "/service/corporate party.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiHeart",
+                  "title": "Personalized Theme Planning"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiMapPin",
+                  "title": "Venue Selection & Management"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiStar",
+                  "title": "Decoration & Floral Arrangements"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiCamera",
+                  "title": "Photography & Videography"
+                },
+                {
+                  "id": "f5",
+                  "icon": "FiCoffee",
+                  "title": "Catering & Menu Planning"
+                },
+                {
+                  "id": "f6",
+                  "icon": "FiMusic",
+                  "title": "Entertainment & Artist Management"
+                },
+                {
+                  "id": "f7",
+                  "icon": "FiGift",
+                  "title": "Guest Hospitality"
+                },
+                {
+                  "id": "f8",
+                  "icon": "FiClipboard",
+                  "title": "On-site Coordination"
+                }
+              ],
+              "processTitle": "Our",
+              "processDescription": "We follow a client-centric approach to ensure every detail is thoughtfully planned and beautifully executed. From initial consultation to the final send-off, our team works closely with you to bring your dream wedding to life.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Initial Consultation & Planning",
+                  "description": "We start with a comprehensive consultation to understand your vision, preferences, and budget. Our team then creates a detailed plan to ensure every aspect of your wedding is perfectly organized."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design & Concept Development",
+                  "description": "Our creative team works on the theme, decor, and overall concept. We present you with mood boards and design layouts to visualize your special day before it happens."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Execution & On-Site Management",
+                  "description": "On the big day, our expert coordinators manage everything behind the scenes. From vendor coordination to timeline management, we ensure your event runs smoothly so you can enjoy every moment."
+                }
+              ],
+              "sidebar": {
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "wedding",
+                      "label": "Wedding Planning",
+                      "url": "/services/wedding"
+                    },
+                    {
+                      "id": "corporate",
+                      "label": "Corporate Events",
+                      "url": "/services/corporate"
+                    },
+                    {
+                      "id": "parties",
+                      "label": "Parties & Celebrations",
+                      "url": "/services/parties"
+                    },
+                    {
+                      "id": "kids",
+                      "label": "Events for Kids",
+                      "url": "/services/kids"
+                    },
+                    {
+                      "id": "decor",
+                      "label": "Lighting & Decor",
+                      "url": "/services/decor"
+                    },
+                    {
+                      "id": "public",
+                      "label": "Public Events",
+                      "url": "/services/public"
+                    }
+                  ]
+                },
+                "contactCard": {
+                  "title": "Plan Your Special Event",
+                  "description": "Get in touch with our team to discuss your event requirements.",
+                  "phone": "+1 00000 00000",
+                  "email": "info@xyz.com",
+                  "address": "123 Main St, New York, NY, USA",
+                  "buttonText": "Contact Us ->",
+                  "bgImage": "/banner/banner.webp"
+                },
+                "whyChooseUsCard": {
+                  "title": "Why Choose Us?",
+                  "description": "We are committed to turning your vision into unforgettable celebrations with creativity, passion, and attention to detail.",
+                  "buttonText": "Know More ->",
+                  "bgImage": "/service/weeding.webp"
+                }
+              }
+            },
+            "decoration": {
+              "id": "decoration",
+              "title1": "Event",
+              "title2": "Decoration",
+              "description": "Your event decoration is more than just an event — it's a beautiful journey. We create magical experiences with flawless planning, creative themes, and personalized details that reflect your unique story.",
+              "imageMain": "/service/private party.webp",
+              "imageSmall1": "/service/private party.webp",
+              "imageSmall2": "/service/corporate party.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiHeart",
+                  "title": "Personalized Theme Planning"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiMapPin",
+                  "title": "Venue Selection & Management"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiStar",
+                  "title": "Decoration & Floral Arrangements"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiCamera",
+                  "title": "Photography & Videography"
+                },
+                {
+                  "id": "f5",
+                  "icon": "FiCoffee",
+                  "title": "Catering & Menu Planning"
+                },
+                {
+                  "id": "f6",
+                  "icon": "FiMusic",
+                  "title": "Entertainment & Artist Management"
+                },
+                {
+                  "id": "f7",
+                  "icon": "FiGift",
+                  "title": "Guest Hospitality"
+                },
+                {
+                  "id": "f8",
+                  "icon": "FiClipboard",
+                  "title": "On-site Coordination"
+                }
+              ],
+              "processTitle": "Our",
+              "processDescription": "We follow a client-centric approach to ensure every detail is thoughtfully planned and beautifully executed. From initial consultation to the final send-off, our team works closely with you to bring your dream wedding to life.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Initial Consultation & Planning",
+                  "description": "We start with a comprehensive consultation to understand your vision, preferences, and budget. Our team then creates a detailed plan to ensure every aspect of your wedding is perfectly organized."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design & Concept Development",
+                  "description": "Our creative team works on the theme, decor, and overall concept. We present you with mood boards and design layouts to visualize your special day before it happens."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Execution & On-Site Management",
+                  "description": "On the big day, our expert coordinators manage everything behind the scenes. From vendor coordination to timeline management, we ensure your event runs smoothly so you can enjoy every moment."
+                }
+              ],
+              "sidebar": {
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "wedding",
+                      "label": "Wedding Planning",
+                      "url": "/services/wedding"
+                    },
+                    {
+                      "id": "corporate",
+                      "label": "Corporate Events",
+                      "url": "/services/corporate"
+                    },
+                    {
+                      "id": "parties",
+                      "label": "Parties & Celebrations",
+                      "url": "/services/parties"
+                    },
+                    {
+                      "id": "kids",
+                      "label": "Events for Kids",
+                      "url": "/services/kids"
+                    },
+                    {
+                      "id": "decor",
+                      "label": "Lighting & Decor",
+                      "url": "/services/decor"
+                    },
+                    {
+                      "id": "public",
+                      "label": "Public Events",
+                      "url": "/services/public"
+                    }
+                  ]
+                },
+                "contactCard": {
+                  "title": "Plan Your Special Event",
+                  "description": "Get in touch with our team to discuss your event requirements.",
+                  "phone": "+1 00000 00000",
+                  "email": "info@xyz.com",
+                  "address": "123 Main St, New York, NY, USA",
+                  "buttonText": "Contact Us ->",
+                  "bgImage": "/banner/banner.webp"
+                },
+                "whyChooseUsCard": {
+                  "title": "Why Choose Us?",
+                  "description": "We are committed to turning your vision into unforgettable celebrations with creativity, passion, and attention to detail.",
+                  "buttonText": "Know More ->",
+                  "bgImage": "/service/weeding.webp"
+                }
+              }
+            },
+            "anniversary": {
+              "id": "anniversary",
+              "title1": "Anniversary",
+              "title2": "Celebration",
+              "description": "Your anniversary celebration is more than just an event — it's a beautiful journey. We create magical experiences with flawless planning, creative themes, and personalized details that reflect your unique story.",
+              "imageMain": "/service/weeding.webp",
+              "imageSmall1": "/service/private party.webp",
+              "imageSmall2": "/service/corporate party.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiHeart",
+                  "title": "Personalized Theme Planning"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiMapPin",
+                  "title": "Venue Selection & Management"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiStar",
+                  "title": "Decoration & Floral Arrangements"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiCamera",
+                  "title": "Photography & Videography"
+                },
+                {
+                  "id": "f5",
+                  "icon": "FiCoffee",
+                  "title": "Catering & Menu Planning"
+                },
+                {
+                  "id": "f6",
+                  "icon": "FiMusic",
+                  "title": "Entertainment & Artist Management"
+                },
+                {
+                  "id": "f7",
+                  "icon": "FiGift",
+                  "title": "Guest Hospitality"
+                },
+                {
+                  "id": "f8",
+                  "icon": "FiClipboard",
+                  "title": "On-site Coordination"
+                }
+              ],
+              "processTitle": "Our",
+              "processDescription": "We follow a client-centric approach to ensure every detail is thoughtfully planned and beautifully executed. From initial consultation to the final send-off, our team works closely with you to bring your dream wedding to life.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Initial Consultation & Planning",
+                  "description": "We start with a comprehensive consultation to understand your vision, preferences, and budget. Our team then creates a detailed plan to ensure every aspect of your wedding is perfectly organized."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design & Concept Development",
+                  "description": "Our creative team works on the theme, decor, and overall concept. We present you with mood boards and design layouts to visualize your special day before it happens."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Execution & On-Site Management",
+                  "description": "On the big day, our expert coordinators manage everything behind the scenes. From vendor coordination to timeline management, we ensure your event runs smoothly so you can enjoy every moment."
+                }
+              ],
+              "sidebar": {
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "wedding",
+                      "label": "Wedding Planning",
+                      "url": "/services/wedding"
+                    },
+                    {
+                      "id": "corporate",
+                      "label": "Corporate Events",
+                      "url": "/services/corporate"
+                    },
+                    {
+                      "id": "parties",
+                      "label": "Parties & Celebrations",
+                      "url": "/services/parties"
+                    },
+                    {
+                      "id": "kids",
+                      "label": "Events for Kids",
+                      "url": "/services/kids"
+                    },
+                    {
+                      "id": "decor",
+                      "label": "Lighting & Decor",
+                      "url": "/services/decor"
+                    },
+                    {
+                      "id": "public",
+                      "label": "Public Events",
+                      "url": "/services/public"
+                    }
+                  ]
+                },
+                "contactCard": {
+                  "title": "Plan Your Special Event",
+                  "description": "Get in touch with our team to discuss your event requirements.",
+                  "phone": "+1 00000 00000",
+                  "email": "info@xyz.com",
+                  "address": "123 Main St, New York, NY, USA",
+                  "buttonText": "Contact Us ->",
+                  "bgImage": "/banner/banner.webp"
+                },
+                "whyChooseUsCard": {
+                  "title": "Why Choose Us?",
+                  "description": "We are committed to turning your vision into unforgettable celebrations with creativity, passion, and attention to detail.",
+                  "buttonText": "Know More ->",
+                  "bgImage": "/service/weeding.webp"
+                }
+              }
+            },
+            "bridal-shower": {
+              "id": "bridal-shower",
+              "title1": "Bridal",
+              "title2": "Shower",
+              "description": "Your bridal shower is more than just an event — it's a beautiful journey. We create magical experiences with flawless planning, creative themes, and personalized details that reflect your unique story.",
+              "imageMain": "/service/private party.webp",
+              "imageSmall1": "/service/private party.webp",
+              "imageSmall2": "/service/corporate party.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiHeart",
+                  "title": "Personalized Theme Planning"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiMapPin",
+                  "title": "Venue Selection & Management"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiStar",
+                  "title": "Decoration & Floral Arrangements"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiCamera",
+                  "title": "Photography & Videography"
+                },
+                {
+                  "id": "f5",
+                  "icon": "FiCoffee",
+                  "title": "Catering & Menu Planning"
+                },
+                {
+                  "id": "f6",
+                  "icon": "FiMusic",
+                  "title": "Entertainment & Artist Management"
+                },
+                {
+                  "id": "f7",
+                  "icon": "FiGift",
+                  "title": "Guest Hospitality"
+                },
+                {
+                  "id": "f8",
+                  "icon": "FiClipboard",
+                  "title": "On-site Coordination"
+                }
+              ],
+              "processTitle": "Our",
+              "processDescription": "We follow a client-centric approach to ensure every detail is thoughtfully planned and beautifully executed. From initial consultation to the final send-off, our team works closely with you to bring your dream wedding to life.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Initial Consultation & Planning",
+                  "description": "We start with a comprehensive consultation to understand your vision, preferences, and budget. Our team then creates a detailed plan to ensure every aspect of your wedding is perfectly organized."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design & Concept Development",
+                  "description": "Our creative team works on the theme, decor, and overall concept. We present you with mood boards and design layouts to visualize your special day before it happens."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Execution & On-Site Management",
+                  "description": "On the big day, our expert coordinators manage everything behind the scenes. From vendor coordination to timeline management, we ensure your event runs smoothly so you can enjoy every moment."
+                }
+              ],
+              "sidebar": {
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "wedding",
+                      "label": "Wedding Planning",
+                      "url": "/services/wedding"
+                    },
+                    {
+                      "id": "corporate",
+                      "label": "Corporate Events",
+                      "url": "/services/corporate"
+                    },
+                    {
+                      "id": "parties",
+                      "label": "Parties & Celebrations",
+                      "url": "/services/parties"
+                    },
+                    {
+                      "id": "kids",
+                      "label": "Events for Kids",
+                      "url": "/services/kids"
+                    },
+                    {
+                      "id": "decor",
+                      "label": "Lighting & Decor",
+                      "url": "/services/decor"
+                    },
+                    {
+                      "id": "public",
+                      "label": "Public Events",
+                      "url": "/services/public"
+                    }
+                  ]
+                },
+                "contactCard": {
+                  "title": "Plan Your Special Event",
+                  "description": "Get in touch with our team to discuss your event requirements.",
+                  "phone": "+1 00000 00000",
+                  "email": "info@xyz.com",
+                  "address": "123 Main St, New York, NY, USA",
+                  "buttonText": "Contact Us ->",
+                  "bgImage": "/banner/banner.webp"
+                },
+                "whyChooseUsCard": {
+                  "title": "Why Choose Us?",
+                  "description": "We are committed to turning your vision into unforgettable celebrations with creativity, passion, and attention to detail.",
+                  "buttonText": "Know More ->",
+                  "bgImage": "/service/weeding.webp"
+                }
+              }
+            },
+            "baby-shower": {
+              "id": "baby-shower",
+              "title1": "Baby",
+              "title2": "Shower",
+              "description": "Your baby shower is more than just an event — it's a beautiful journey. We create magical experiences with flawless planning, creative themes, and personalized details that reflect your unique story.",
+              "imageMain": "/service/weeding.webp",
+              "imageSmall1": "/service/private party.webp",
+              "imageSmall2": "/service/corporate party.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiHeart",
+                  "title": "Personalized Theme Planning"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiMapPin",
+                  "title": "Venue Selection & Management"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiStar",
+                  "title": "Decoration & Floral Arrangements"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiCamera",
+                  "title": "Photography & Videography"
+                },
+                {
+                  "id": "f5",
+                  "icon": "FiCoffee",
+                  "title": "Catering & Menu Planning"
+                },
+                {
+                  "id": "f6",
+                  "icon": "FiMusic",
+                  "title": "Entertainment & Artist Management"
+                },
+                {
+                  "id": "f7",
+                  "icon": "FiGift",
+                  "title": "Guest Hospitality"
+                },
+                {
+                  "id": "f8",
+                  "icon": "FiClipboard",
+                  "title": "On-site Coordination"
+                }
+              ],
+              "processTitle": "Our",
+              "processDescription": "We follow a client-centric approach to ensure every detail is thoughtfully planned and beautifully executed. From initial consultation to the final send-off, our team works closely with you to bring your dream wedding to life.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Initial Consultation & Planning",
+                  "description": "We start with a comprehensive consultation to understand your vision, preferences, and budget. Our team then creates a detailed plan to ensure every aspect of your wedding is perfectly organized."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design & Concept Development",
+                  "description": "Our creative team works on the theme, decor, and overall concept. We present you with mood boards and design layouts to visualize your special day before it happens."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Execution & On-Site Management",
+                  "description": "On the big day, our expert coordinators manage everything behind the scenes. From vendor coordination to timeline management, we ensure your event runs smoothly so you can enjoy every moment."
+                }
+              ],
+              "sidebar": {
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "wedding",
+                      "label": "Wedding Planning",
+                      "url": "/services/wedding"
+                    },
+                    {
+                      "id": "corporate",
+                      "label": "Corporate Events",
+                      "url": "/services/corporate"
+                    },
+                    {
+                      "id": "parties",
+                      "label": "Parties & Celebrations",
+                      "url": "/services/parties"
+                    },
+                    {
+                      "id": "kids",
+                      "label": "Events for Kids",
+                      "url": "/services/kids"
+                    },
+                    {
+                      "id": "decor",
+                      "label": "Lighting & Decor",
+                      "url": "/services/decor"
+                    },
+                    {
+                      "id": "public",
+                      "label": "Public Events",
+                      "url": "/services/public"
+                    }
+                  ]
+                },
+                "contactCard": {
+                  "title": "Plan Your Special Event",
+                  "description": "Get in touch with our team to discuss your event requirements.",
+                  "phone": "+1 00000 00000",
+                  "email": "info@xyz.com",
+                  "address": "123 Main St, New York, NY, USA",
+                  "buttonText": "Contact Us ->",
+                  "bgImage": "/banner/banner.webp"
+                },
+                "whyChooseUsCard": {
+                  "title": "Why Choose Us?",
+                  "description": "We are committed to turning your vision into unforgettable celebrations with creativity, passion, and attention to detail.",
+                  "buttonText": "Know More ->",
+                  "bgImage": "/service/weeding.webp"
+                }
+              }
+            },
+            "product-launch": {
+              "id": "product-launch",
+              "title1": "Product",
+              "title2": "Launch",
+              "description": "Your product launch is more than just an event — it's a beautiful journey. We create magical experiences with flawless planning, creative themes, and personalized details that reflect your unique story.",
+              "imageMain": "/service/corporate party.webp",
+              "imageSmall1": "/service/private party.webp",
+              "imageSmall2": "/service/corporate party.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiHeart",
+                  "title": "Personalized Theme Planning"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiMapPin",
+                  "title": "Venue Selection & Management"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiStar",
+                  "title": "Decoration & Floral Arrangements"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiCamera",
+                  "title": "Photography & Videography"
+                },
+                {
+                  "id": "f5",
+                  "icon": "FiCoffee",
+                  "title": "Catering & Menu Planning"
+                },
+                {
+                  "id": "f6",
+                  "icon": "FiMusic",
+                  "title": "Entertainment & Artist Management"
+                },
+                {
+                  "id": "f7",
+                  "icon": "FiGift",
+                  "title": "Guest Hospitality"
+                },
+                {
+                  "id": "f8",
+                  "icon": "FiClipboard",
+                  "title": "On-site Coordination"
+                }
+              ],
+              "processTitle": "Our",
+              "processDescription": "We follow a client-centric approach to ensure every detail is thoughtfully planned and beautifully executed. From initial consultation to the final send-off, our team works closely with you to bring your dream wedding to life.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Initial Consultation & Planning",
+                  "description": "We start with a comprehensive consultation to understand your vision, preferences, and budget. Our team then creates a detailed plan to ensure every aspect of your wedding is perfectly organized."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design & Concept Development",
+                  "description": "Our creative team works on the theme, decor, and overall concept. We present you with mood boards and design layouts to visualize your special day before it happens."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Execution & On-Site Management",
+                  "description": "On the big day, our expert coordinators manage everything behind the scenes. From vendor coordination to timeline management, we ensure your event runs smoothly so you can enjoy every moment."
+                }
+              ],
+              "sidebar": {
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "wedding",
+                      "label": "Wedding Planning",
+                      "url": "/services/wedding"
+                    },
+                    {
+                      "id": "corporate",
+                      "label": "Corporate Events",
+                      "url": "/services/corporate"
+                    },
+                    {
+                      "id": "parties",
+                      "label": "Parties & Celebrations",
+                      "url": "/services/parties"
+                    },
+                    {
+                      "id": "kids",
+                      "label": "Events for Kids",
+                      "url": "/services/kids"
+                    },
+                    {
+                      "id": "decor",
+                      "label": "Lighting & Decor",
+                      "url": "/services/decor"
+                    },
+                    {
+                      "id": "public",
+                      "label": "Public Events",
+                      "url": "/services/public"
+                    }
+                  ]
+                },
+                "contactCard": {
+                  "title": "Plan Your Special Event",
+                  "description": "Get in touch with our team to discuss your event requirements.",
+                  "phone": "+1 00000 00000",
+                  "email": "info@xyz.com",
+                  "address": "123 Main St, New York, NY, USA",
+                  "buttonText": "Contact Us ->",
+                  "bgImage": "/banner/banner.webp"
+                },
+                "whyChooseUsCard": {
+                  "title": "Why Choose Us?",
+                  "description": "We are committed to turning your vision into unforgettable celebrations with creativity, passion, and attention to detail.",
+                  "buttonText": "Know More ->",
+                  "bgImage": "/service/weeding.webp"
+                }
+              }
+            },
+            "gala": {
+              "id": "gala",
+              "title1": "Gala",
+              "title2": "Dinner",
+              "description": "Your gala dinner is more than just an event — it's a beautiful journey. We create magical experiences with flawless planning, creative themes, and personalized details that reflect your unique story.",
+              "imageMain": "/service/private party.webp",
+              "imageSmall1": "/service/private party.webp",
+              "imageSmall2": "/service/corporate party.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiHeart",
+                  "title": "Personalized Theme Planning"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiMapPin",
+                  "title": "Venue Selection & Management"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiStar",
+                  "title": "Decoration & Floral Arrangements"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiCamera",
+                  "title": "Photography & Videography"
+                },
+                {
+                  "id": "f5",
+                  "icon": "FiCoffee",
+                  "title": "Catering & Menu Planning"
+                },
+                {
+                  "id": "f6",
+                  "icon": "FiMusic",
+                  "title": "Entertainment & Artist Management"
+                },
+                {
+                  "id": "f7",
+                  "icon": "FiGift",
+                  "title": "Guest Hospitality"
+                },
+                {
+                  "id": "f8",
+                  "icon": "FiClipboard",
+                  "title": "On-site Coordination"
+                }
+              ],
+              "processTitle": "Our",
+              "processDescription": "We follow a client-centric approach to ensure every detail is thoughtfully planned and beautifully executed. From initial consultation to the final send-off, our team works closely with you to bring your dream wedding to life.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Initial Consultation & Planning",
+                  "description": "We start with a comprehensive consultation to understand your vision, preferences, and budget. Our team then creates a detailed plan to ensure every aspect of your wedding is perfectly organized."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design & Concept Development",
+                  "description": "Our creative team works on the theme, decor, and overall concept. We present you with mood boards and design layouts to visualize your special day before it happens."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Execution & On-Site Management",
+                  "description": "On the big day, our expert coordinators manage everything behind the scenes. From vendor coordination to timeline management, we ensure your event runs smoothly so you can enjoy every moment."
+                }
+              ],
+              "sidebar": {
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "wedding",
+                      "label": "Wedding Planning",
+                      "url": "/services/wedding"
+                    },
+                    {
+                      "id": "corporate",
+                      "label": "Corporate Events",
+                      "url": "/services/corporate"
+                    },
+                    {
+                      "id": "parties",
+                      "label": "Parties & Celebrations",
+                      "url": "/services/parties"
+                    },
+                    {
+                      "id": "kids",
+                      "label": "Events for Kids",
+                      "url": "/services/kids"
+                    },
+                    {
+                      "id": "decor",
+                      "label": "Lighting & Decor",
+                      "url": "/services/decor"
+                    },
+                    {
+                      "id": "public",
+                      "label": "Public Events",
+                      "url": "/services/public"
+                    }
+                  ]
+                },
+                "contactCard": {
+                  "title": "Plan Your Special Event",
+                  "description": "Get in touch with our team to discuss your event requirements.",
+                  "phone": "+1 00000 00000",
+                  "email": "info@xyz.com",
+                  "address": "123 Main St, New York, NY, USA",
+                  "buttonText": "Contact Us ->",
+                  "bgImage": "/banner/banner.webp"
+                },
+                "whyChooseUsCard": {
+                  "title": "Why Choose Us?",
+                  "description": "We are committed to turning your vision into unforgettable celebrations with creativity, passion, and attention to detail.",
+                  "buttonText": "Know More ->",
+                  "bgImage": "/service/weeding.webp"
+                }
+              }
+            },
+            "charity": {
+              "id": "charity",
+              "title1": "Charity",
+              "title2": "Event",
+              "description": "Your charity event is more than just an event — it's a beautiful journey. We create magical experiences with flawless planning, creative themes, and personalized details that reflect your unique story.",
+              "imageMain": "/service/weeding.webp",
+              "imageSmall1": "/service/private party.webp",
+              "imageSmall2": "/service/corporate party.webp",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FiHeart",
+                  "title": "Personalized Theme Planning"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FiMapPin",
+                  "title": "Venue Selection & Management"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FiStar",
+                  "title": "Decoration & Floral Arrangements"
+                },
+                {
+                  "id": "f4",
+                  "icon": "FiCamera",
+                  "title": "Photography & Videography"
+                },
+                {
+                  "id": "f5",
+                  "icon": "FiCoffee",
+                  "title": "Catering & Menu Planning"
+                },
+                {
+                  "id": "f6",
+                  "icon": "FiMusic",
+                  "title": "Entertainment & Artist Management"
+                },
+                {
+                  "id": "f7",
+                  "icon": "FiGift",
+                  "title": "Guest Hospitality"
+                },
+                {
+                  "id": "f8",
+                  "icon": "FiClipboard",
+                  "title": "On-site Coordination"
+                }
+              ],
+              "processTitle": "Our",
+              "processDescription": "We follow a client-centric approach to ensure every detail is thoughtfully planned and beautifully executed. From initial consultation to the final send-off, our team works closely with you to bring your dream wedding to life.",
+              "processSteps": [
+                {
+                  "id": "p1",
+                  "number": "01",
+                  "title": "Initial Consultation & Planning",
+                  "description": "We start with a comprehensive consultation to understand your vision, preferences, and budget. Our team then creates a detailed plan to ensure every aspect of your wedding is perfectly organized."
+                },
+                {
+                  "id": "p2",
+                  "number": "02",
+                  "title": "Design & Concept Development",
+                  "description": "Our creative team works on the theme, decor, and overall concept. We present you with mood boards and design layouts to visualize your special day before it happens."
+                },
+                {
+                  "id": "p3",
+                  "number": "03",
+                  "title": "Execution & On-Site Management",
+                  "description": "On the big day, our expert coordinators manage everything behind the scenes. From vendor coordination to timeline management, we ensure your event runs smoothly so you can enjoy every moment."
+                }
+              ],
+              "sidebar": {
+                "servicesList": {
+                  "title": "Our Services",
+                  "services": [
+                    {
+                      "id": "wedding",
+                      "label": "Wedding Planning",
+                      "url": "/services/wedding"
+                    },
+                    {
+                      "id": "corporate",
+                      "label": "Corporate Events",
+                      "url": "/services/corporate"
+                    },
+                    {
+                      "id": "parties",
+                      "label": "Parties & Celebrations",
+                      "url": "/services/parties"
+                    },
+                    {
+                      "id": "kids",
+                      "label": "Events for Kids",
+                      "url": "/services/kids"
+                    },
+                    {
+                      "id": "decor",
+                      "label": "Lighting & Decor",
+                      "url": "/services/decor"
+                    },
+                    {
+                      "id": "public",
+                      "label": "Public Events",
+                      "url": "/services/public"
+                    }
+                  ]
+                },
+                "contactCard": {
+                  "title": "Plan Your Special Event",
+                  "description": "Get in touch with our team to discuss your event requirements.",
+                  "phone": "+1 00000 00000",
+                  "email": "info@xyz.com",
+                  "address": "123 Main St, New York, NY, USA",
+                  "buttonText": "Contact Us ->",
+                  "bgImage": "/banner/banner.webp"
+                },
+                "whyChooseUsCard": {
+                  "title": "Why Choose Us?",
+                  "description": "We are committed to turning your vision into unforgettable celebrations with creativity, passion, and attention to detail.",
+                  "buttonText": "Know More ->",
+                  "bgImage": "/service/weeding.webp"
+                }
+              }
+            }
+          }
+        },
+        "Counter": {
+          "variants": {
+            "HealthCounselorCounter1": {
+              "bgImage": "",
+              "items": [
+                {
+                  "id": "c1",
+                  "icon": "FaAward",
+                  "title": "Certificates &\nAwards",
+                  "number": 25,
+                  "suffix": "+",
+                  "label": "Awards &\nRecognition"
+                },
+                {
+                  "id": "c2",
+                  "icon": "FaUsers",
+                  "title": "Psychologists\nFamily",
+                  "number": 60,
+                  "suffix": "+",
+                  "label": "Expert\nTherapists"
+                },
+                {
+                  "id": "c3",
+                  "icon": "FaComments",
+                  "title": "Individuals\nCounselled",
+                  "number": 18,
+                  "suffix": "K+",
+                  "label": "Lives\nSupported"
+                },
+                {
+                  "id": "c4",
+                  "icon": "FaTasks",
+                  "title": "Case Issues\nSolved",
+                  "number": 4,
+                  "suffix": "K+",
+                  "label": "Cases\nResolved"
+                }
+              ]
+            }
+          }
+        },
+        "Team": {
+          "variants": {
+            "HealthCounselorTeam1": {
+              "subtitle": "OUR EXPERT",
+              "title1": "Meet Our Team",
+              "title2": "Members",
+              "description": "Our experienced and compassionate professionals are dedicated to supporting your mental well-being.",
+              "members": [
+                {
+                  "id": "t1",
+                  "name": "Dr. Priya Sharma",
+                  "role": "Clinical Psychologist",
+                  "image": "/team/1.webp"
+                },
+                {
+                  "id": "t2",
+                  "name": "Dr. Rahul Mehta",
+                  "role": "Therapy Expert",
+                  "image": "/team/2.webp"
+                },
+                {
+                  "id": "t3",
+                  "name": "Dr. Neha Verma",
+                  "role": "Mental Health Counselor",
+                  "image": "/team/3.webp"
+                },
+                {
+                  "id": "t4",
+                  "name": "Dr. Aman Gupta",
+                  "role": "Behavioral Therapist",
+                  "image": "/team/4.webp"
+                }
+              ]
+            }
+          }
+        },
+        "Testimonials": {
+          "variants": {
+            "HealthCounselorTestimonials1": {
+              "subtitle": "TESTIMONIAL",
+              "title1": "What Does Clients Saying",
+              "title2": "About.",
+              "description": "Our clients share their experiences and how our support has helped them achieve better mental health and a happier, more balanced life.",
+              "testimonials": [
+                {
+                  "id": "testi1",
+                  "name": "Priya Sharma",
+                  "location": "Client",
+                  "quote": "I was struggling with anxiety for a long time, but the counseling sessions here truly helped me. The therapists are professional, kind, and really listen. I feel more confident and positive now.",
+                  "rating": 5,
+                  "avatar": "/team/1.webp"
+                },
+                {
+                  "id": "testi2",
+                  "name": "Aman Verma",
+                  "location": "Therapy Client",
+                  "quote": "The support and guidance I received were life-changing. The therapists here are highly skilled and compassionate. I have learned better ways to manage stress and feel much happier in my daily life.",
+                  "rating": 4,
+                  "avatar": "/team/2.webp"
+                },
+                {
+                  "id": "testi3",
+                  "name": "Neha Gupta",
+                  "location": "Client",
+                  "quote": "Excellent service and very supportive staff. The environment is incredibly welcoming and I always felt heard during my sessions.",
+                  "rating": 5,
+                  "avatar": "/team/3.webp"
+                }
+              ]
+            }
+          }
+        },
+        "contact": {
+          "variants": {
+            "HealthCounselorContact1": {
+              "subtitle": "Contact Us",
+              "title1": "Get In Touch",
+              "title2": "With Us",
+              "description": "Have a question, need a quote, or want to schedule a HealthCounselor service? Our team is here to help. Reach out to us through the form or using the contact details below.",
+              "contactInfo": {
+                "phoneTitle": "Call Us",
+                "phone": "+1 000000000",
+                "emailTitle": "Email Us",
+                "email": "info@xyz.com",
+                "addressTitle": "Our Location",
+                "address": "123 Main St, New York, NY, USA",
+                "hoursTitle": "Working Hours",
+                "hoursLine1": "Mon - Sat: 9am - 7pm",
+                "hoursLine2": "Sunday: CLOSED"
+              },
+              "form": {
+                "title": "Send Us a Message",
+                "description": "Fill out the form below and our team will get back to you shortly.",
+                "buttonText": "Send Message",
+                "servicesList": [
+                  "Residential Cleaning",
+                  "Commercial Cleaning",
+                  "Post-Construction Cleaning",
+                  "Window Cleaning",
+                  "Carpet Cleaning",
+                  "Other"
+                ]
+              },
+              "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.2528000654!2d-74.1444874457788!3d40.69766374865766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin",
+              "infoBoxes": [
+                {
+                  "icon": "FaClock",
+                  "title": "Working Hours",
+                  "desc1": "Mon - Sat: 9:00 AM - 7:00 PM",
+                  "desc2": "Sunday: Closed"
+                },
+                {
+                  "icon": "FaHeadset",
+                  "title": "Need Urgent Help?",
+                  "desc1": "Call us anytime for",
+                  "desc2": "emergency HealthCounselor service."
+                },
+                {
+                  "icon": "FaFileAlt",
+                  "title": "Request a Quote",
+                  "desc1": "Get a free, no-obligation",
+                  "desc2": "estimate for your HealthCounselor needs."
+                }
+              ]
+            }
+          }
+        },
+        "enquiry": {
+          "variants": {
+            "HealthCounselorEnquiry1": {
+              "subtitle": "GET A QUOTE",
+              "title1": "Request A",
+              "title2": "Quote",
+              "description": "Tell us about your cleaning requirements and we'll provide you with a customized quote. It's quick, easy and completely free.",
+              "features": [
+                {
+                  "title": "Tailored to Your Needs",
+                  "description": "Get a quote based on your specific cleaning requirements."
+                },
+                {
+                  "title": "Quick & Easy",
+                  "description": "Fill out the form in just a few minutes."
+                },
+                {
+                  "title": "No Obligation",
+                  "description": "Receive a personalized quote with no commitment."
+                }
+              ],
+              "form": {
+                "title1": "Request a",
+                "title2": "Quote",
+                "description": "Fill out the form below and our team will get back to you shortly with a customized quote.",
+                "buttonText": "Get a Quote ->",
+                "servicesList": [
+                  "Residential Cleaning",
+                  "Commercial Cleaning",
+                  "Post-Construction Cleaning",
+                  "Window Cleaning",
+                  "Carpet Cleaning",
+                  "Other"
+                ]
+              }
+            }
+          }
+        },
+        "Gallery": {
+          "variants": {
+            "HealthCounselorGallery1": {
+              "subtitle": "OUR GALLERY",
+              "title1": "Moments",
+              "title2": "That Tell Our Story",
+              "description": "Explore our beautiful moments from past events.",
+              "images": [
+                {
+                  "id": "gal1",
+                  "image": "/gallery/1.webp",
+                  "alt": "Gallery Image 1"
+                },
+                {
+                  "id": "gal2",
+                  "image": "/gallery/2.webp",
+                  "alt": "Gallery Image 2"
+                },
+                {
+                  "id": "gal3",
+                  "image": "/gallery/3.webp",
+                  "alt": "Gallery Image 3"
+                },
+                {
+                  "id": "gal4",
+                  "image": "/gallery/4.webp",
+                  "alt": "Gallery Image 4"
+                },
+                {
+                  "id": "gal5",
+                  "image": "/gallery/5.webp",
+                  "alt": "Gallery Image 5"
+                },
+                {
+                  "id": "gal6",
+                  "image": "/gallery/6.webp",
+                  "alt": "Gallery Image 6"
+                }
+              ],
+              "button": {
+                "text": "View All",
+                "url": "/gallery"
+              }
+            },
+            "HealthCounselorGalleryGrid1": {
+              "subtitle": "GALLERY",
+              "title1": "Moments of",
+              "title2": "Care and Support",
+              "description": "A glimpse into our sessions, activities, and the positive moments we share with individuals and families.",
+              "images": [
+                {
+                  "id": "g1",
+                  "image": "/service/1.webp",
+                  "alt": "Individual Counseling"
+                },
+                {
+                  "id": "g2",
+                  "image": "/service/2.webp",
+                  "alt": "Couples Counseling"
+                },
+                {
+                  "id": "g3",
+                  "image": "/service/3.webp",
+                  "alt": "Child Support"
+                },
+                {
+                  "id": "g4",
+                  "image": "/service/4.webp",
+                  "alt": "Group Therapy"
+                },
+                {
+                  "id": "g5",
+                  "image": "/service/5.webp",
+                  "alt": "Stress Management"
+                },
+                {
+                  "id": "g6",
+                  "image": "/service/6.webp",
+                  "alt": "Career Guidance"
+                }
+              ]
+            }
+          }
+        },
+        "Faq": {
+          "variants": {
+            "HealthCounselorFaq1": {
+              "subtitle": "FAQ",
+              "title1": "Frequently",
+              "title2": "Asked Questions",
+              "description": "Find answers to common questions about our services, process, and how we can support your mental well-being.",
+              "image": "/about/about_front.webp",
+              "faqs": [
+                {
+                  "id": "faq1",
+                  "question": "What types of therapy do you offer?",
+                  "answer": "We offer individual therapy, child and adolescent therapy, couples counseling, family therapy, and stress management sessions. Our approach is personalized to meet your unique needs."
+                },
+                {
+                  "id": "faq2",
+                  "question": "How do I know if therapy is right for me?",
+                  "answer": "If you feel overwhelmed, anxious, or unable to cope with daily tasks, therapy can help. It provides a safe space to explore your feelings and develop coping strategies."
+                },
+                {
+                  "id": "faq3",
+                  "question": "Can I schedule an online session?",
+                  "answer": "Yes, we offer fully confidential and secure online sessions for clients who prefer to receive support from the comfort of their own homes."
+                },
+                {
+                  "id": "faq4",
+                  "question": "What age groups do you work with?",
+                  "answer": "We work with clients of all ages, from children and adolescents to adults and seniors. We have specialized therapists for each age group."
+                },
+                {
+                  "id": "faq5",
+                  "question": "How long does a typical session last?",
+                  "answer": "A standard therapy session typically lasts 45 to 50 minutes. However, some specialized sessions or family therapy might take longer."
+                }
+              ]
+            }
+          }
+        },
+        "ServicesGrid": {
+          "variants": {
+            "HealthCounselorServicesGrid1": {
+              "subtitle": "OUR SERVICES",
+              "title1": "Create",
+              "title2": "Unforgettable Moments",
+              "description": "From intimate gatherings to grand celebrations, we offer a complete range of event planning services to make your special moments truly memorable.",
+              "services": [
+                {
+                  "id": "sg1",
+                  "title": "Wedding Planning",
+                  "image": "/service/weeding.webp",
+                  "icon": "FaRing",
+                  "url": "/services/wedding"
+                },
+                {
+                  "id": "sg2",
+                  "title": "Birthday Party",
+                  "image": "/service/weeding.webp",
+                  "icon": "FaBirthdayCake",
+                  "url": "/services/birthday"
+                },
+                {
+                  "id": "sg3",
+                  "title": "Corporate Event",
+                  "image": "/service/corporate party.webp",
+                  "icon": "FaUsers",
+                  "url": "/services/corporate"
+                },
+                {
+                  "id": "sg4",
+                  "title": "Private Party",
+                  "image": "/service/private party.webp",
+                  "icon": "FaGlassCheers",
+                  "url": "/services/private-party"
+                },
+                {
+                  "id": "sg5",
+                  "title": "Engagement Ceremony",
+                  "image": "/service/weeding.webp",
+                  "icon": "FaHeart",
+                  "url": "/services/engagement"
+                },
+                {
+                  "id": "sg6",
+                  "title": "Event Decoration",
+                  "image": "/service/private party.webp",
+                  "icon": "FaFan",
+                  "url": "/services/decoration"
+                },
+                {
+                  "id": "sg7",
+                  "title": "Anniversary Celebration",
+                  "image": "/service/weeding.webp",
+                  "icon": "FaHeart",
+                  "url": "/services/anniversary"
+                },
+                {
+                  "id": "sg8",
+                  "title": "Bridal Shower",
+                  "image": "/service/private party.webp",
+                  "icon": "FaGlassCheers",
+                  "url": "/services/bridal-shower"
+                },
+                {
+                  "id": "sg9",
+                  "title": "Baby Shower",
+                  "image": "/service/weeding.webp",
+                  "icon": "FaBirthdayCake",
+                  "url": "/services/baby-shower"
+                },
+                {
+                  "id": "sg10",
+                  "title": "Product Launch",
+                  "image": "/service/corporate party.webp",
+                  "icon": "FaUsers",
+                  "url": "/services/product-launch"
+                },
+                {
+                  "id": "sg11",
+                  "title": "Gala Dinner",
+                  "image": "/service/private party.webp",
+                  "icon": "FaGlassCheers",
+                  "url": "/services/gala"
+                },
+                {
+                  "id": "sg12",
+                  "title": "Charity Event",
+                  "image": "/service/weeding.webp",
+                  "icon": "FaHeart",
+                  "url": "/services/charity"
+                }
+              ]
+            }
+          }
+        },
+        "Blogs": {
+          "variants": {
+            "HealthCounselorBlogs1": {
+              "subtitle": "OUR BLOG",
+              "title1": "Latest News &",
+              "title2": "Updates",
+              "description": "Stay informed with our latest insights, tips, and updates on mental health and well-being.",
+              "blogs": [
+                {
+                  "id": "blog1",
+                  "image": "/blog/1.jpg",
+                  "tag": "Counseling",
+                  "date": "July 21, 2026",
+                  "title": "How Therapy Can Help Manage Anxiety",
+                  "summary": "Learn how professional counseling can help you understand and manage anxiety for a healthier, happier life.",
+                  "url": "#"
+                },
+                {
+                  "id": "blog2",
+                  "image": "/blog/2.jpg",
+                  "tag": "Mental Health",
+                  "date": "May 17, 2026",
+                  "title": "Building Emotional Resilience in Daily Life",
+                  "summary": "Discover practical strategies to build emotional resilience and cope with life's challenges more effectively.",
+                  "url": "#"
+                },
+                {
+                  "id": "blog3",
+                  "image": "/blog/3.jpg",
+                  "tag": "Well-being",
+                  "date": "June 23, 2026",
+                  "title": "Tips for a Healthier and Happier Mind",
+                  "summary": "Explore simple yet effective tips to improve your mental well-being and create a more balanced, fulfilling life.",
+                  "url": "#"
+                }
+              ]
+            },
+            "HealthCounselorBlogGrid1": {
+              "subtitle": "OUR BLOG",
+              "title1": "Insights for a",
+              "title2": "Healthier, Happier Life",
+              "description": "Explore expert advice, practical tips, and inspiring stories to support your mental and emotional well-being.",
+              "blogs": [
+                {
+                  "id": "managing-stress",
+                  "image": "/service/1.webp",
+                  "tag": "Mental Health",
+                  "date": "12 Sep 2026",
+                  "title": "Simple Ways to Manage Stress in Daily Life",
+                  "summary": "Discover practical tips to manage stress, stay calm, and improve your overall well-being.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "child-support",
+                  "image": "/service/3.webp",
+                  "tag": "Child & Adolescent",
+                  "date": "08 Sep 2026",
+                  "title": "How to Support Your Child's Emotional Well-being",
+                  "summary": "Learn effective strategies to help children build confidence and cope with life's challenges.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "effective-communication",
+                  "image": "/service/2.webp",
+                  "tag": "Relationships",
+                  "date": "05 Sep 2026",
+                  "title": "Effective Communication in Relationships",
+                  "summary": "Understand the importance of open communication and learn ways to strengthen your bond.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "daily-mindfulness",
+                  "image": "/service/5.webp",
+                  "tag": "Self Care",
+                  "date": "01 Sep 2026",
+                  "title": "The Power of Daily Mindfulness",
+                  "summary": "Explore how mindfulness can help you stay present, reduce anxiety, and create a positive mindset.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "first-therapy-session",
+                  "image": "/service/4.webp",
+                  "tag": "Therapy",
+                  "date": "28 Aug 2026",
+                  "title": "What to Expect in Your First Therapy Session",
+                  "summary": "A helpful guide to understanding what happens in a therapy session and how it can support you.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "work-life-balance",
+                  "image": "/service/6.webp",
+                  "tag": "Career Guidance",
+                  "date": "24 Aug 2026",
+                  "title": "How to Find Work-Life Balance",
+                  "summary": "Practical tips to manage your personal and professional life for long-term happiness.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "managing-stress-2",
+                  "image": "/service/1.webp",
+                  "tag": "Mental Health",
+                  "date": "12 Sep 2026",
+                  "title": "Simple Ways to Manage Stress in Daily Life",
+                  "summary": "Discover practical tips to manage stress, stay calm, and improve your overall well-being.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "child-support-2",
+                  "image": "/service/3.webp",
+                  "tag": "Child & Adolescent",
+                  "date": "08 Sep 2026",
+                  "title": "How to Support Your Child's Emotional Well-being",
+                  "summary": "Learn effective strategies to help children build confidence and cope with life's challenges.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "effective-communication-2",
+                  "image": "/service/2.webp",
+                  "tag": "Relationships",
+                  "date": "05 Sep 2026",
+                  "title": "Effective Communication in Relationships",
+                  "summary": "Understand the importance of open communication and learn ways to strengthen your bond.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "daily-mindfulness-2",
+                  "image": "/service/5.webp",
+                  "tag": "Self Care",
+                  "date": "01 Sep 2026",
+                  "title": "The Power of Daily Mindfulness",
+                  "summary": "Explore how mindfulness can help you stay present, reduce anxiety, and create a positive mindset.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "first-therapy-session-2",
+                  "image": "/service/4.webp",
+                  "tag": "Therapy",
+                  "date": "28 Aug 2026",
+                  "title": "What to Expect in Your First Therapy Session",
+                  "summary": "A helpful guide to understanding what happens in a therapy session and how it can support you.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "work-life-balance-2",
+                  "image": "/service/6.webp",
+                  "tag": "Career Guidance",
+                  "date": "24 Aug 2026",
+                  "title": "How to Find Work-Life Balance",
+                  "summary": "Practical tips to manage your personal and professional life for long-term happiness.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "managing-stress-3",
+                  "image": "/service/1.webp",
+                  "tag": "Mental Health",
+                  "date": "12 Sep 2026",
+                  "title": "Simple Ways to Manage Stress in Daily Life",
+                  "summary": "Discover practical tips to manage stress, stay calm, and improve your overall well-being.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "child-support-3",
+                  "image": "/service/3.webp",
+                  "tag": "Child & Adolescent",
+                  "date": "08 Sep 2026",
+                  "title": "How to Support Your Child's Emotional Well-being",
+                  "summary": "Learn effective strategies to help children build confidence and cope with life's challenges.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "effective-communication-3",
+                  "image": "/service/2.webp",
+                  "tag": "Relationships",
+                  "date": "05 Sep 2026",
+                  "title": "Effective Communication in Relationships",
+                  "summary": "Understand the importance of open communication and learn ways to strengthen your bond.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "daily-mindfulness-3",
+                  "image": "/service/5.webp",
+                  "tag": "Self Care",
+                  "date": "01 Sep 2026",
+                  "title": "The Power of Daily Mindfulness",
+                  "summary": "Explore how mindfulness can help you stay present, reduce anxiety, and create a positive mindset.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "first-therapy-session-3",
+                  "image": "/service/4.webp",
+                  "tag": "Therapy",
+                  "date": "28 Aug 2026",
+                  "title": "What to Expect in Your First Therapy Session",
+                  "summary": "A helpful guide to understanding what happens in a therapy session and how it can support you.",
+                  "author": "Dr. Sarah Williams"
+                },
+                {
+                  "id": "work-life-balance-3",
+                  "image": "/service/6.webp",
+                  "tag": "Career Guidance",
+                  "date": "24 Aug 2026",
+                  "title": "How to Find Work-Life Balance",
+                  "summary": "Practical tips to manage your personal and professional life for long-term happiness.",
+                  "author": "Dr. Sarah Williams"
+                }
+              ]
+            }
+          }
+        },
+        "AboutPage": {
+          "variants": {
+            "HealthCounselorAboutPage1": {
+              "subtitle": "ABOUT US",
+              "title1": "Compassionate Care",
+              "title2": "for a Brighter Tomorrow",
+              "description": "We offer a safe and supportive space where you can share your thoughts, manage stress, overcome challenges, and build a healthier, happier life. Our experienced therapists provide care, understanding, and practical solutions tailored to your needs.",
+              "imageFront": "/about/about_front.webp",
+              "imageBack": "/about/about_back.webp",
+              "experienceText1": "20+ Years",
+              "experienceText2": "Experience",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaBrain",
+                  "title": "Personalized Support"
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaUsers",
+                  "title": "Experienced Therapists"
+                },
+                {
+                  "id": "f3",
+                  "icon": "FaLeaf",
+                  "title": "Positive Growth"
+                }
+              ],
+              "buttonText": "Get a Quote",
+              "buttonUrl": "/contact"
+            }
+          }
+        },
+        "CustomServiceDetail": {
+          "variants": {
+            "individual": {
+              "id": "individual",
+              "subtitle": "SERVICE DETAILS",
+              "title1": "Individual",
+              "title2": "Counseling",
+              "mainDescription": "One-on-one support to help you manage stress, anxiety, and life challenges effectively. Our experienced therapist works with you to understand your unique concerns and develop practical solutions tailored to your needs.",
+              "whatYouCanExpectTitle": "What You Can Expect",
+              "whatYouCanExpectDescription": "Our individual counseling sessions are designed to help you gain clarity, develop coping strategies, and make positive changes in your life. We are here to support you every step of the way.",
+              "keyBenefitsTitle": "Key Benefits",
+              "keyBenefits": [
+                "Personalized support tailored to your unique needs.",
+                "A safe and confidential environment.",
+                "Practical strategies to manage stress and anxiety.",
+                "Guidance to improve emotional well-being.",
+                "Support for personal growth and self-confidence."
+              ],
+              "whoCanBenefitTitle": "Who Can Benefit",
+              "whoCanBenefitDescription": "Individual counseling can be helpful for anyone experiencing emotional challenges, life transitions, relationship concerns, or simply seeking personal growth and a better understanding of themselves.",
+              "buttonText": "Get a Quote",
+              "buttonUrl": "/contact",
+              "sidebar": {
+                "doctorImage": "/service/1.webp",
+                "doctorName": "Dr. Emily Carter",
+                "doctorRole": "Psychiatrist",
+                "doctorDescription": "I'm here to support you on your journey toward a healthier, happier, and more balanced life. Together, we can work through challenges and build a stronger tomorrow.",
+                "socialLinks": [
+                  {
+                    "id": "fb",
+                    "icon": "FaFacebookF",
+                    "url": "#"
+                  },
+                  {
+                    "id": "tw",
+                    "icon": "FaTwitter",
+                    "url": "#"
+                  },
+                  {
+                    "id": "in",
+                    "icon": "FaLinkedinIn",
+                    "url": "#"
+                  }
+                ],
+                "quoteText": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                "quoteAuthor": "Dr. Emily Carter"
+              }
+            },
+            "couples": {
+              "id": "couples",
+              "subtitle": "SERVICE DETAILS",
+              "title1": "Couples",
+              "title2": "Counseling",
+              "mainDescription": "Strengthen your relationship, improve communication, and build a healthier future together. Our experienced therapist works with you to understand your unique concerns and develop practical solutions tailored to your needs.",
+              "whatYouCanExpectTitle": "What You Can Expect",
+              "whatYouCanExpectDescription": "Our couples counseling sessions are designed to help you gain clarity, develop coping strategies, and make positive changes in your life. We are here to support you every step of the way.",
+              "keyBenefitsTitle": "Key Benefits",
+              "keyBenefits": [
+                "Personalized support tailored to your unique needs.",
+                "A safe and confidential environment.",
+                "Practical strategies to manage stress and anxiety.",
+                "Guidance to improve emotional well-being.",
+                "Support for personal growth and self-confidence."
+              ],
+              "whoCanBenefitTitle": "Who Can Benefit",
+              "whoCanBenefitDescription": "Individual counseling can be helpful for anyone experiencing emotional challenges, life transitions, relationship concerns, or simply seeking personal growth and a better understanding of themselves.",
+              "buttonText": "Get a Quote",
+              "buttonUrl": "/contact",
+              "sidebar": {
+                "doctorImage": "/service/2.webp",
+                "doctorName": "Dr. Emily Carter",
+                "doctorRole": "Psychiatrist",
+                "doctorDescription": "I'm here to support you on your journey toward a healthier, happier, and more balanced life. Together, we can work through challenges and build a stronger tomorrow.",
+                "socialLinks": [
+                  {
+                    "id": "fb",
+                    "icon": "FaFacebookF",
+                    "url": "#"
+                  },
+                  {
+                    "id": "tw",
+                    "icon": "FaTwitter",
+                    "url": "#"
+                  },
+                  {
+                    "id": "in",
+                    "icon": "FaLinkedinIn",
+                    "url": "#"
+                  }
+                ],
+                "quoteText": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                "quoteAuthor": "Dr. Emily Carter"
+              }
+            },
+            "child": {
+              "id": "child",
+              "subtitle": "SERVICE DETAILS",
+              "title1": "Child",
+              "title2": "& Adolescent Counseling",
+              "mainDescription": "Support for emotional, behavioral, and developmental challenges in children and teens. Our experienced therapist works with you to understand your unique concerns and develop practical solutions tailored to your needs.",
+              "whatYouCanExpectTitle": "What You Can Expect",
+              "whatYouCanExpectDescription": "Our child & adolescent counseling sessions are designed to help you gain clarity, develop coping strategies, and make positive changes in your life. We are here to support you every step of the way.",
+              "keyBenefitsTitle": "Key Benefits",
+              "keyBenefits": [
+                "Personalized support tailored to your unique needs.",
+                "A safe and confidential environment.",
+                "Practical strategies to manage stress and anxiety.",
+                "Guidance to improve emotional well-being.",
+                "Support for personal growth and self-confidence."
+              ],
+              "whoCanBenefitTitle": "Who Can Benefit",
+              "whoCanBenefitDescription": "Individual counseling can be helpful for anyone experiencing emotional challenges, life transitions, relationship concerns, or simply seeking personal growth and a better understanding of themselves.",
+              "buttonText": "Get a Quote",
+              "buttonUrl": "/contact",
+              "sidebar": {
+                "doctorImage": "/service/3.webp",
+                "doctorName": "Dr. Emily Carter",
+                "doctorRole": "Psychiatrist",
+                "doctorDescription": "I'm here to support you on your journey toward a healthier, happier, and more balanced life. Together, we can work through challenges and build a stronger tomorrow.",
+                "socialLinks": [
+                  {
+                    "id": "fb",
+                    "icon": "FaFacebookF",
+                    "url": "#"
+                  },
+                  {
+                    "id": "tw",
+                    "icon": "FaTwitter",
+                    "url": "#"
+                  },
+                  {
+                    "id": "in",
+                    "icon": "FaLinkedinIn",
+                    "url": "#"
+                  }
+                ],
+                "quoteText": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                "quoteAuthor": "Dr. Emily Carter"
+              }
+            },
+            "group": {
+              "id": "group",
+              "subtitle": "SERVICE DETAILS",
+              "title1": "Group",
+              "title2": "Therapy",
+              "mainDescription": "Connect, share, and grow in a supportive and understanding environment. Our experienced therapist works with you to understand your unique concerns and develop practical solutions tailored to your needs.",
+              "whatYouCanExpectTitle": "What You Can Expect",
+              "whatYouCanExpectDescription": "Our group therapy sessions are designed to help you gain clarity, develop coping strategies, and make positive changes in your life. We are here to support you every step of the way.",
+              "keyBenefitsTitle": "Key Benefits",
+              "keyBenefits": [
+                "Personalized support tailored to your unique needs.",
+                "A safe and confidential environment.",
+                "Practical strategies to manage stress and anxiety.",
+                "Guidance to improve emotional well-being.",
+                "Support for personal growth and self-confidence."
+              ],
+              "whoCanBenefitTitle": "Who Can Benefit",
+              "whoCanBenefitDescription": "Individual counseling can be helpful for anyone experiencing emotional challenges, life transitions, relationship concerns, or simply seeking personal growth and a better understanding of themselves.",
+              "buttonText": "Get a Quote",
+              "buttonUrl": "/contact",
+              "sidebar": {
+                "doctorImage": "/service/4.webp",
+                "doctorName": "Dr. Emily Carter",
+                "doctorRole": "Psychiatrist",
+                "doctorDescription": "I'm here to support you on your journey toward a healthier, happier, and more balanced life. Together, we can work through challenges and build a stronger tomorrow.",
+                "socialLinks": [
+                  {
+                    "id": "fb",
+                    "icon": "FaFacebookF",
+                    "url": "#"
+                  },
+                  {
+                    "id": "tw",
+                    "icon": "FaTwitter",
+                    "url": "#"
+                  },
+                  {
+                    "id": "in",
+                    "icon": "FaLinkedinIn",
+                    "url": "#"
+                  }
+                ],
+                "quoteText": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                "quoteAuthor": "Dr. Emily Carter"
+              }
+            },
+            "stress": {
+              "id": "stress",
+              "subtitle": "SERVICE DETAILS",
+              "title1": "Stress",
+              "title2": "& Anxiety Management",
+              "mainDescription": "Practical strategies to manage stress, reduce anxiety, and regain balance in your life. Our experienced therapist works with you to understand your unique concerns and develop practical solutions tailored to your needs.",
+              "whatYouCanExpectTitle": "What You Can Expect",
+              "whatYouCanExpectDescription": "Our stress & anxiety management sessions are designed to help you gain clarity, develop coping strategies, and make positive changes in your life. We are here to support you every step of the way.",
+              "keyBenefitsTitle": "Key Benefits",
+              "keyBenefits": [
+                "Personalized support tailored to your unique needs.",
+                "A safe and confidential environment.",
+                "Practical strategies to manage stress and anxiety.",
+                "Guidance to improve emotional well-being.",
+                "Support for personal growth and self-confidence."
+              ],
+              "whoCanBenefitTitle": "Who Can Benefit",
+              "whoCanBenefitDescription": "Individual counseling can be helpful for anyone experiencing emotional challenges, life transitions, relationship concerns, or simply seeking personal growth and a better understanding of themselves.",
+              "buttonText": "Get a Quote",
+              "buttonUrl": "/contact",
+              "sidebar": {
+                "doctorImage": "/service/5.webp",
+                "doctorName": "Dr. Emily Carter",
+                "doctorRole": "Psychiatrist",
+                "doctorDescription": "I'm here to support you on your journey toward a healthier, happier, and more balanced life. Together, we can work through challenges and build a stronger tomorrow.",
+                "socialLinks": [
+                  {
+                    "id": "fb",
+                    "icon": "FaFacebookF",
+                    "url": "#"
+                  },
+                  {
+                    "id": "tw",
+                    "icon": "FaTwitter",
+                    "url": "#"
+                  },
+                  {
+                    "id": "in",
+                    "icon": "FaLinkedinIn",
+                    "url": "#"
+                  }
+                ],
+                "quoteText": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                "quoteAuthor": "Dr. Emily Carter"
+              }
+            },
+            "career": {
+              "id": "career",
+              "subtitle": "SERVICE DETAILS",
+              "title1": "Life",
+              "title2": "& Career Guidance",
+              "mainDescription": "Gain clarity, set meaningful goals, and make confident decisions for a brighter future. Our experienced therapist works with you to understand your unique concerns and develop practical solutions tailored to your needs.",
+              "whatYouCanExpectTitle": "What You Can Expect",
+              "whatYouCanExpectDescription": "Our life & career guidance sessions are designed to help you gain clarity, develop coping strategies, and make positive changes in your life. We are here to support you every step of the way.",
+              "keyBenefitsTitle": "Key Benefits",
+              "keyBenefits": [
+                "Personalized support tailored to your unique needs.",
+                "A safe and confidential environment.",
+                "Practical strategies to manage stress and anxiety.",
+                "Guidance to improve emotional well-being.",
+                "Support for personal growth and self-confidence."
+              ],
+              "whoCanBenefitTitle": "Who Can Benefit",
+              "whoCanBenefitDescription": "Individual counseling can be helpful for anyone experiencing emotional challenges, life transitions, relationship concerns, or simply seeking personal growth and a better understanding of themselves.",
+              "buttonText": "Get a Quote",
+              "buttonUrl": "/contact",
+              "sidebar": {
+                "doctorImage": "/service/6.webp",
+                "doctorName": "Dr. Emily Carter",
+                "doctorRole": "Psychiatrist",
+                "doctorDescription": "I'm here to support you on your journey toward a healthier, happier, and more balanced life. Together, we can work through challenges and build a stronger tomorrow.",
+                "socialLinks": [
+                  {
+                    "id": "fb",
+                    "icon": "FaFacebookF",
+                    "url": "#"
+                  },
+                  {
+                    "id": "tw",
+                    "icon": "FaTwitter",
+                    "url": "#"
+                  },
+                  {
+                    "id": "in",
+                    "icon": "FaLinkedinIn",
+                    "url": "#"
+                  }
+                ],
+                "quoteText": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+                "quoteAuthor": "Dr. Emily Carter"
+              }
+            }
+          }
+        },
+        "VideoGallery": {
+          "variants": {
+            "HealthCounselorVideoGallery1": {
+              "subtitle": "VIDEO GALLERY",
+              "title1": "Watch Our",
+              "title2": "Latest Videos",
+              "description": "Explore our video library to learn more about our services, expert advice, and inspiring stories.",
+              "videos": [
+                {
+                  "id": "v1",
+                  "title": "How Therapy Can Help You",
+                  "thumbnail": "/service/1.webp",
+                  "duration": "03:45",
+                  "youtubeId": "dQw4w9WgXcQ"
+                },
+                {
+                  "id": "v2",
+                  "title": "Building Stronger Relationships",
+                  "thumbnail": "/service/2.webp",
+                  "duration": "04:18",
+                  "youtubeId": "dQw4w9WgXcQ"
+                },
+                {
+                  "id": "v3",
+                  "title": "Managing Stress and Anxiety",
+                  "thumbnail": "/service/5.webp",
+                  "duration": "06:21",
+                  "youtubeId": "dQw4w9WgXcQ"
+                },
+                {
+                  "id": "v4",
+                  "title": "Child Counseling Guide",
+                  "thumbnail": "/service/3.webp",
+                  "duration": "05:30",
+                  "youtubeId": "dQw4w9WgXcQ"
+                },
+                {
+                  "id": "v5",
+                  "title": "The Power of Group Therapy",
+                  "thumbnail": "/service/4.webp",
+                  "duration": "08:15",
+                  "youtubeId": "dQw4w9WgXcQ"
+                },
+                {
+                  "id": "v6",
+                  "title": "Career Guidance Tips",
+                  "thumbnail": "/service/6.webp",
+                  "duration": "04:50",
+                  "youtubeId": "dQw4w9WgXcQ"
+                }
+              ]
+            }
+          }
+        },
+        "BlogDetail": {
+          "variants": {
+            "managing-stress": {
+              "id": "managing-stress",
+              "title": "Simple Ways to Manage Stress in Daily Life",
+              "imageMain": "/service/1.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "12 Sep 2026",
+              "summary": "Discover practical tips to manage stress, stay calm, and improve your overall well-being. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "child-support": {
+              "id": "child-support",
+              "title": "How to Support Your Child's Emotional Well-being",
+              "imageMain": "/service/3.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "08 Sep 2026",
+              "summary": "Learn effective strategies to help children build confidence and cope with life's challenges. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "effective-communication": {
+              "id": "effective-communication",
+              "title": "Effective Communication in Relationships",
+              "imageMain": "/service/2.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "05 Sep 2026",
+              "summary": "Understand the importance of open communication and learn ways to strengthen your bond. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "daily-mindfulness": {
+              "id": "daily-mindfulness",
+              "title": "The Power of Daily Mindfulness",
+              "imageMain": "/service/5.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "01 Sep 2026",
+              "summary": "Explore how mindfulness can help you stay present, reduce anxiety, and create a positive mindset. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "first-therapy-session": {
+              "id": "first-therapy-session",
+              "title": "What to Expect in Your First Therapy Session",
+              "imageMain": "/service/4.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "28 Aug 2026",
+              "summary": "A helpful guide to understanding what happens in a therapy session and how it can support you. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "work-life-balance": {
+              "id": "work-life-balance",
+              "title": "How to Find Work-Life Balance",
+              "imageMain": "/service/6.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "24 Aug 2026",
+              "summary": "Practical tips to manage your personal and professional life for long-term happiness. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "managing-stress-2": {
+              "id": "managing-stress-2",
+              "title": "Simple Ways to Manage Stress in Daily Life",
+              "imageMain": "/service/1.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "12 Sep 2026",
+              "summary": "Discover practical tips to manage stress, stay calm, and improve your overall well-being. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "child-support-2": {
+              "id": "child-support-2",
+              "title": "How to Support Your Child's Emotional Well-being",
+              "imageMain": "/service/3.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "08 Sep 2026",
+              "summary": "Learn effective strategies to help children build confidence and cope with life's challenges. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "effective-communication-2": {
+              "id": "effective-communication-2",
+              "title": "Effective Communication in Relationships",
+              "imageMain": "/service/2.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "05 Sep 2026",
+              "summary": "Understand the importance of open communication and learn ways to strengthen your bond. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "daily-mindfulness-2": {
+              "id": "daily-mindfulness-2",
+              "title": "The Power of Daily Mindfulness",
+              "imageMain": "/service/5.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "01 Sep 2026",
+              "summary": "Explore how mindfulness can help you stay present, reduce anxiety, and create a positive mindset. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "first-therapy-session-2": {
+              "id": "first-therapy-session-2",
+              "title": "What to Expect in Your First Therapy Session",
+              "imageMain": "/service/4.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "28 Aug 2026",
+              "summary": "A helpful guide to understanding what happens in a therapy session and how it can support you. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "work-life-balance-2": {
+              "id": "work-life-balance-2",
+              "title": "How to Find Work-Life Balance",
+              "imageMain": "/service/6.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "24 Aug 2026",
+              "summary": "Practical tips to manage your personal and professional life for long-term happiness. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "managing-stress-3": {
+              "id": "managing-stress-3",
+              "title": "Simple Ways to Manage Stress in Daily Life",
+              "imageMain": "/service/1.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "12 Sep 2026",
+              "summary": "Discover practical tips to manage stress, stay calm, and improve your overall well-being. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "child-support-3": {
+              "id": "child-support-3",
+              "title": "How to Support Your Child's Emotional Well-being",
+              "imageMain": "/service/3.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "08 Sep 2026",
+              "summary": "Learn effective strategies to help children build confidence and cope with life's challenges. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "effective-communication-3": {
+              "id": "effective-communication-3",
+              "title": "Effective Communication in Relationships",
+              "imageMain": "/service/2.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "05 Sep 2026",
+              "summary": "Understand the importance of open communication and learn ways to strengthen your bond. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "daily-mindfulness-3": {
+              "id": "daily-mindfulness-3",
+              "title": "The Power of Daily Mindfulness",
+              "imageMain": "/service/5.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "01 Sep 2026",
+              "summary": "Explore how mindfulness can help you stay present, reduce anxiety, and create a positive mindset. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "first-therapy-session-3": {
+              "id": "first-therapy-session-3",
+              "title": "What to Expect in Your First Therapy Session",
+              "imageMain": "/service/4.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "28 Aug 2026",
+              "summary": "A helpful guide to understanding what happens in a therapy session and how it can support you. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            },
+            "work-life-balance-3": {
+              "id": "work-life-balance-3",
+              "title": "How to Find Work-Life Balance",
+              "imageMain": "/service/6.webp",
+              "author": "Dr. Sarah Williams",
+              "date": "24 Aug 2026",
+              "summary": "Practical tips to manage your personal and professional life for long-term happiness. Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Title": "Understanding the Challenge",
+              "section1Text": "Mental health is an essential part of overall well-being. It affects how we think, feel, and act. Taking steps to understand and nurture our emotional health can lead to a more balanced and fulfilling life. By being mindful of our habits and environments, we can create positive changes that support us through difficult times.",
+              "section1Image": "/service/2.webp",
+              "quoteText": "Words matter. When we use mental health terms thoughtfully, we help create a more compassionate and supportive world for everyone.",
+              "quoteAuthor": "Dr. Sarah Williams",
+              "section2Title": "The Impact of Daily Choices",
+              "section2Text": "Small choices we make every day can have a significant impact on our mental and emotional state. Here are a few things to consider:",
+              "section2List": [
+                "Minimize the experiences of those living with clinical depression.",
+                "Increase awareness around mental health conditions.",
+                "Create clear understandings about the seriousness of mental health.",
+                "Encourage people from seeking professional help."
+              ],
+              "section2Image": "/service/4.webp",
+              "section3Title": "How We Can Be More Mindful",
+              "section3Text": "Here are a few simple ways to navigate mental health challenges more responsibly:",
+              "section3List": [
+                "Be aware of the meaning behind the words we use.",
+                "Avoid using clinical terms to describe everyday emotions.",
+                "Show empathy and support for those who are struggling.",
+                "Encourage open and respectful conversations about mental health."
+              ],
+              "section3Image": "/service/1.webp"
+            }
+          }
+        },
+        "ContactUs": {
+          "variants": {
+            "HealthCounselorContactUs1": {
+              "subtitle": "GET IN TOUCH",
+              "title1": "We're Here",
+              "title2": "to Support You",
+              "description": "Have questions or want to schedule a consultation? Reach out to us - we're always happy to help.",
+              "contactInfo": {
+                "phoneTitle": "Phone",
+                "phone": "+1 000000000\nCall Us Anytime",
+                "emailTitle": "E-Mail",
+                "email": "info@xyz.com\nSend Us a Message",
+                "addressTitle": "Address",
+                "address": "123 Main St,\nNew York, NY, USA",
+                "hoursTitle": "",
+                "hoursLine1": "",
+                "hoursLine2": ""
+              },
+              "form": {
+                "title": "Send Us a Message",
+                "description": "Fill out the form below and we'll get back to you soon.",
+                "buttonText": "Send Message",
+                "namePlaceholder": "Full Name",
+                "emailPlaceholder": "Email Address",
+                "phonePlaceholder": "Phone Number",
+                "subjectPlaceholder": "Subject",
+                "messagePlaceholder": "Your Message"
+              },
+              "image": "/service/1.webp",
+              "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.15830869428!2d-74.119763973046!3d40.69766374874431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+            }
+          }
+        }
+      },
+      "templateComponents": {
+        "shared": {
+          "Topbar": "HealthCounselorTopBar1",
+          "Header": "HealthCounselorHeader1",
+          "Footer": "HealthCounselorFooter1"
+        },
+        "pages": {
+          "home": {
+            "components": [
+              {
+                "key": "HeroSection",
+                "component": "HealthCounselorHero1"
+              },
+              {
+                "key": "AboutUs",
+                "component": "HealthCounselorAboutUs1"
+              },
+              {
+                "key": "Services",
+                "component": "HealthCounselorServices1"
+              },
+              {
+                "key": "Testimonials",
+                "component": "HealthCounselorTestimonials1"
+              }
+            ]
+          },
+          "about": {
+            "components": [
+              {
+                "key": "AboutUs",
+                "component": "HealthCounselorAboutUs1"
+              },
+              {
+                "key": "WhyChooseUs",
+                "component": "HealthCounselorWhyChooseUs1"
+              }
+            ]
+          },
+          "services": {
+            "components": [
+              {
+                "key": "ServicesGrid",
+                "component": "HealthCounselorServicesGrid1"
+              },
+              {
+                "key": "Sponsors",
+                "component": "HealthCounselorSponsors1"
+              }
+            ]
+          },
+          "gallery": {
+            "components": [
+              {
+                "key": "Gallery",
+                "component": "HealthCounselorGallery1"
+              },
+              {
+                "key": "VideoGallery",
+                "component": "HealthCounselorVideoGallery1"
+              }
+            ]
+          },
+          "faq": {
+            "components": [
+              {
+                "key": "Faq",
+                "component": "HealthCounselorFaq1"
+              }
+            ]
+          },
+          "contact": {
+            "components": [
+              {
+                "key": "Contact",
+                "component": "HealthCounselorContact1"
+              }
+            ]
+          },
+          "quote": {
+            "components": [
+              {
+                "key": "Quote",
+                "component": "HealthCounselorQuote1"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
