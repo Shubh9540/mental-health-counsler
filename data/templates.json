@@ -2638,7 +2638,7 @@
                   "date": "July 21, 2026",
                   "title": "How Therapy Can Help Manage Anxiety",
                   "summary": "Learn how professional counseling can help you understand and manage anxiety for a healthier, happier life.",
-                  "url": "#"
+                  "url": "blog/managing-stress"
                 },
                 {
                   "id": "blog2",
@@ -2647,7 +2647,7 @@
                   "date": "May 17, 2026",
                   "title": "Building Emotional Resilience in Daily Life",
                   "summary": "Discover practical strategies to build emotional resilience and cope with life's challenges more effectively.",
-                  "url": "#"
+                  "url": "blog/effective-communication"
                 },
                 {
                   "id": "blog3",
@@ -2656,7 +2656,7 @@
                   "date": "June 23, 2026",
                   "title": "Tips for a Healthier and Happier Mind",
                   "summary": "Explore simple yet effective tips to improve your mental well-being and create a more balanced, fulfilling life.",
-                  "url": "#"
+                  "url": "blog/child-support"
                 }
               ]
             },
@@ -2861,7 +2861,7 @@
                 }
               ],
               "buttonText": "Get a Quote",
-              "buttonUrl": "/contact"
+              "buttonUrl": "/quote"
             }
           }
         },
@@ -2886,7 +2886,7 @@
               "whoCanBenefitTitle": "Who Can Benefit",
               "whoCanBenefitDescription": "Individual counseling can be helpful for anyone experiencing emotional challenges, life transitions, relationship concerns, or simply seeking personal growth and a better understanding of themselves.",
               "buttonText": "Get a Quote",
-              "buttonUrl": "/contact",
+              "buttonUrl": "/quote",
               "sidebar": {
                 "doctorImage": "/service/1.webp",
                 "doctorName": "Dr. Emily Carter",
@@ -2932,7 +2932,7 @@
               "whoCanBenefitTitle": "Who Can Benefit",
               "whoCanBenefitDescription": "Individual counseling can be helpful for anyone experiencing emotional challenges, life transitions, relationship concerns, or simply seeking personal growth and a better understanding of themselves.",
               "buttonText": "Get a Quote",
-              "buttonUrl": "/contact",
+              "buttonUrl": "/quote",
               "sidebar": {
                 "doctorImage": "/service/2.webp",
                 "doctorName": "Dr. Emily Carter",
@@ -2978,7 +2978,7 @@
               "whoCanBenefitTitle": "Who Can Benefit",
               "whoCanBenefitDescription": "Individual counseling can be helpful for anyone experiencing emotional challenges, life transitions, relationship concerns, or simply seeking personal growth and a better understanding of themselves.",
               "buttonText": "Get a Quote",
-              "buttonUrl": "/contact",
+              "buttonUrl": "/quote",
               "sidebar": {
                 "doctorImage": "/service/3.webp",
                 "doctorName": "Dr. Emily Carter",
@@ -3024,7 +3024,7 @@
               "whoCanBenefitTitle": "Who Can Benefit",
               "whoCanBenefitDescription": "Individual counseling can be helpful for anyone experiencing emotional challenges, life transitions, relationship concerns, or simply seeking personal growth and a better understanding of themselves.",
               "buttonText": "Get a Quote",
-              "buttonUrl": "/contact",
+              "buttonUrl": "/quote",
               "sidebar": {
                 "doctorImage": "/service/4.webp",
                 "doctorName": "Dr. Emily Carter",
@@ -3070,7 +3070,7 @@
               "whoCanBenefitTitle": "Who Can Benefit",
               "whoCanBenefitDescription": "Individual counseling can be helpful for anyone experiencing emotional challenges, life transitions, relationship concerns, or simply seeking personal growth and a better understanding of themselves.",
               "buttonText": "Get a Quote",
-              "buttonUrl": "/contact",
+              "buttonUrl": "/quote",
               "sidebar": {
                 "doctorImage": "/service/5.webp",
                 "doctorName": "Dr. Emily Carter",
@@ -3116,7 +3116,7 @@
               "whoCanBenefitTitle": "Who Can Benefit",
               "whoCanBenefitDescription": "Individual counseling can be helpful for anyone experiencing emotional challenges, life transitions, relationship concerns, or simply seeking personal growth and a better understanding of themselves.",
               "buttonText": "Get a Quote",
-              "buttonUrl": "/contact",
+              "buttonUrl": "/quote",
               "sidebar": {
                 "doctorImage": "/service/6.webp",
                 "doctorName": "Dr. Emily Carter",
