@@ -2,7 +2,16 @@
 
 import React from 'react';
 import { EnquiryData } from '@/types/templates.types';
-import { FiArrowRight, FiCalendar } from 'react-icons/fi';
+import { FiArrowRight, FiCalendar, FiClock, FiShield, FiTarget } from 'react-icons/fi';
+
+const renderIcon = (iconName: string) => {
+  switch (iconName) {
+    case 'FiTarget': return <FiTarget />;
+    case 'FiClock': return <FiClock />;
+    case 'FiShield': return <FiShield />;
+    default: return null;
+  }
+};
 
 export const EnquirySection = ({ data }: { data?: EnquiryData }) => {
   if (!data) return null;
@@ -31,14 +40,19 @@ export const EnquirySection = ({ data }: { data?: EnquiryData }) => {
             </p>
 
             <div className="flex flex-col gap-8">
-              {data.features.map((feature, idx) => (
-                <div key={idx} className="flex flex-col gap-1">
-                  <h4 className="text-lg font-bold text-[var(--color-primary)]">
-                    {feature.title}
-                  </h4>
-                  <p className="text-sm text-gray-500">
-                    {feature.description}
-                  </p>
+              {data.features.map((feature) => (
+                <div key={feature.id} className="flex items-start gap-4">
+                  <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-[var(--color-accent)]/10 text-xl text-[var(--color-accent)]">
+                    {renderIcon(feature.icon)}
+                  </div>
+                  <div className="flex flex-col gap-1 pt-0.5">
+                    <h4 className="text-lg font-bold text-[var(--color-primary)]">
+                      {feature.title}
+                    </h4>
+                    <p className="text-sm text-gray-500">
+                      {feature.description}
+                    </p>
+                  </div>
                 </div>
               ))}
             </div>

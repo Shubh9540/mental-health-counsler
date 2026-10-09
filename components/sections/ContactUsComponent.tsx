@@ -92,7 +92,7 @@ export const ContactUsComponent = ({ data }: { data?: ContactUsData }) => {
           </div>
 
           {/* Overlapping Form Card */}
-          <div className="relative z-10 w-full max-w-xl bg-white rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.15)] p-8 md:p-12 lg:-ml-24 xl:-ml-32 mt-10 lg:mt-0 mb-10 lg:mb-0 border border-gray-100">
+          <div className="relative z-10 w-full max-w-xl bg-white rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.15)] p-8 md:p-12 lg:-ml-56 xl:-ml-64 mt-10 lg:mt-0 mb-10 lg:mb-0 border border-gray-100">
 
             <h3 className="text-3xl font-serif font-bold text-[var(--color-primary)] mb-3">
               {data.form?.title}

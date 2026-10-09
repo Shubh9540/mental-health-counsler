@@ -30,7 +30,7 @@ export const HeroSection = ({ data }: { data?: HeroData }) => {
           </div>
 
           {/* Title */}
-          <h1 className="mb-6 text-5xl sm:text-6xl lg:text-[75px] leading-[1.1] font-serif font-bold">
+          <h1 className="mb-6 text-4xl sm:text-6xl lg:text-[58px] leading-[1.1] font-serif font-bold">
             <span className="block text-white">{data.title1}</span>
             <span className="block text-[var(--color-accent-muted)]">{data.title2}</span>
           </h1>

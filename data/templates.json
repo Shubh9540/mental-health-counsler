@@ -137,7 +137,7 @@
       "logo": "/main logo/logo1.webp",
       "col2Title": "Our Services",
       "col3Title": "Useful Links",
-      "col4Title": "Frequent Questions",
+      "col4Title": "Our Services",
       "supportText": "Support: "
     },
     "aboutBreadcrumb": {
@@ -298,7 +298,8 @@
               "description1": "At CalmPath, we believe that mental well-being is the foundation of a healthier, happier and more fulfilling life. Our compassionate counselors are here to listen, understand and guide you through life's challenges with care and evidence-based approaches.",
               "description2": "",
               "imageMain": "/about/about.webp",
-              "yearsOfExperience": "12+",
+              "yearsOfExperience": "12+ ",
+              "experienceLabel": "Years of Experience",
               "features": [
                 {
                   "id": "f1",
@@ -2376,14 +2377,20 @@
               "description": "Tell us about your cleaning requirements and we'll provide you with a customized quote. It's quick, easy and completely free.",
               "features": [
                 {
+                  "id": "feature-tailored-quote",
+                  "icon": "FiTarget",
                   "title": "Tailored to Your Needs",
                   "description": "Get a quote based on your specific cleaning requirements."
                 },
                 {
+                  "id": "feature-quick-easy",
+                  "icon": "FiClock",
                   "title": "Quick & Easy",
                   "description": "Fill out the form in just a few minutes."
                 },
                 {
+                  "id": "feature-no-obligation",
+                  "icon": "FiShield",
                   "title": "No Obligation",
                   "description": "Receive a personalized quote with no commitment."
                 }

@@ -280,6 +280,8 @@ export interface EnquiryData {
   title2: string;
   description: string;
   features: {
+    id: string;
+    icon: string;
     title: string;
     description: string;
   }[];
