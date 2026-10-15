@@ -1,5 +1,5 @@
 'use client';
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { HeaderData } from '@/types/templates.types';
@@ -8,16 +8,48 @@ import { FaArrowRight, FaBars, FaTimes, FaChevronDown } from 'react-icons/fa';
 export const Header = ({ data }: { data?: HeaderData }) => {
   const pathname = usePathname();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [isScrolled, setIsScrolled] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const scrollPos = window.scrollY || window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+      setIsScrolled(scrollPos > 15);
+    };
+
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    window.addEventListener('touchmove', handleScroll, { passive: true });
+    handleScroll();
+
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+      window.removeEventListener('touchmove', handleScroll);
+    };
+  }, []);
 
   if (!data) return null;
 
   return (
-    <header className="absolute top-0 left-0 z-40 w-full bg-transparent">
-      <div className="max-w-[1250px] mx-auto w-full flex min-h-[70px] lg:min-h-[100px] items-center px-4 lg:px-8 gap-6 xl:gap-10">
+    <header 
+      className={`fixed top-0 left-0 z-50 w-full transition-all duration-300 ${
+        isScrolled 
+          ? 'bg-[var(--color-primary)] shadow-lg' 
+          : 'bg-transparent'
+      }`}
+      style={isScrolled ? { backgroundColor: 'var(--color-primary, #12332a)' } : { backgroundColor: 'transparent' }}
+    >
+      <div className={`max-w-[1250px] mx-auto w-full flex items-center px-4 lg:px-8 gap-6 xl:gap-10 transition-all duration-300 ${
+        isScrolled ? 'min-h-[64px] lg:min-h-[76px]' : 'min-h-[70px] lg:min-h-[100px]'
+      }`}>
         
         {/* Logo */}
         <Link href="/" className="flex items-center shrink-0 mr-auto -ml-2 lg:-ml-6 xl:-ml-8">
-          <img src={data.logo} alt={data.logoAlt || 'Logo'} className="h-20 md:h-24 lg:h-[100px] xl:h-[110px] object-contain" />
+          <img 
+            src={data.logo} 
+            alt={data.logoAlt || 'Logo'} 
+            className={`object-contain transition-all duration-300 ${
+              isScrolled ? 'h-14 md:h-16 lg:h-[70px]' : 'h-20 md:h-24 lg:h-[100px] xl:h-[110px]'
+            }`} 
+          />
         </Link>
 
         {/* Desktop Navigation */}
